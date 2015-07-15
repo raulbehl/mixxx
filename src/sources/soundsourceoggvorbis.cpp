@@ -14,12 +14,6 @@ const int kEntireBitstreamLink  = -1; // retrieve ... for the entire physical bi
 
 } // anonymous namespace
 
-QList<QString> SoundSourceOggVorbis::supportedFileExtensions() {
-    QList<QString> list;
-    list.push_back("ogg");
-    return list;
-}
-
 SoundSourceOggVorbis::SoundSourceOggVorbis(QUrl url)
         : SoundSource(url, "ogg"),
           m_curFrameIndex(0) {
@@ -91,7 +85,7 @@ SINT SoundSourceOggVorbis::seekSampleFrame(
             m_curFrameIndex = pcmOffset;
         } else {
             // Reset to EOF
-            m_curFrameIndex = getFrameIndexMax();
+            m_curFrameIndex = getMaxFrameIndex();
         }
     }
 
@@ -118,8 +112,8 @@ SINT SoundSourceOggVorbis::readSampleFrames(
     DEBUG_ASSERT(isValidFrameIndex(m_curFrameIndex));
     DEBUG_ASSERT(getSampleBufferSize(numberOfFrames, readStereoSamples) <= sampleBufferSize);
 
-    const SINT numberOfFramesTotal = math_min(numberOfFrames,
-            SINT(getFrameIndexMax() - m_curFrameIndex));
+    const SINT numberOfFramesTotal = math_min(
+            numberOfFrames, getMaxFrameIndex() - m_curFrameIndex);
 
     CSAMPLE* pSampleBuffer = sampleBuffer;
     SINT numberOfFramesRemaining = numberOfFramesTotal;
@@ -134,7 +128,7 @@ SINT SoundSourceOggVorbis::readSampleFrames(
                 numberOfFramesRemaining, &currentSection);
         if (0 < readResult) {
             m_curFrameIndex += readResult;
-            if (isChannelCountMono()) {
+            if (kChannelCountMono == getChannelCount()) {
                 if (readStereoSamples) {
                     for (long i = 0; i < readResult; ++i) {
                         *pSampleBuffer++ = pcmChannels[0][i];
@@ -145,7 +139,7 @@ SINT SoundSourceOggVorbis::readSampleFrames(
                         *pSampleBuffer++ = pcmChannels[0][i];
                     }
                 }
-            } else if (isChannelCountStereo() || readStereoSamples) {
+            } else if (readStereoSamples || (kChannelCountStereo == getChannelCount())) {
                 for (long i = 0; i < readResult; ++i) {
                     *pSampleBuffer++ = pcmChannels[0][i];
                     *pSampleBuffer++ = pcmChannels[1][i];
@@ -167,6 +161,16 @@ SINT SoundSourceOggVorbis::readSampleFrames(
     DEBUG_ASSERT(isValidFrameIndex(m_curFrameIndex));
     DEBUG_ASSERT(numberOfFramesTotal >= numberOfFramesRemaining);
     return numberOfFramesTotal - numberOfFramesRemaining;
+}
+
+QString SoundSourceProviderOggVorbis::getName() const {
+    return "Xiph.org OggVorbis";
+}
+
+QStringList SoundSourceProviderOggVorbis::getSupportedFileExtensions() const {
+    QStringList supportedFileExtensions;
+    supportedFileExtensions.append("ogg");
+    return supportedFileExtensions;
 }
 
 } // namespace Mixxx

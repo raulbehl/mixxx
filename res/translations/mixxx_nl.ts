@@ -99,7 +99,7 @@
 <context>
     <name>BasePlaylistFeature</name>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="256"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="264"/>
         <source>New Playlist</source>
         <translation>Nieuwe afspeellijst</translation>
     </message>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="31"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="253"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="261"/>
         <source>Create New Playlist</source>
         <translation>Maak een nieuwe afspeellijst</translation>
     </message>
@@ -127,12 +127,12 @@
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="47"/>
         <source>Rename</source>
-        <translation>Hernoem</translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="51"/>
         <source>Lock</source>
-        <translation>Vergrendel</translation>
+        <translation>Vergrendelen</translation>
     </message>
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="55"/>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="59"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="325"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="333"/>
         <source>Import Playlist</source>
         <translation>Afspeellijst importeren</translation>
     </message>
@@ -151,85 +151,85 @@
         <translation>Analyseer volledige afspeellijst</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="152"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="165"/>
         <source>Enter new name for playlist:</source>
         <translation>Voer nieuwe naam in voor afspeellijst:</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="197"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="205"/>
         <source>Duplicate Playlist</source>
         <translation>Afspeellijst dupliceren</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="198"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="254"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="206"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="262"/>
         <source>Enter name for new playlist:</source>
         <translation>Voer naam in voor nieuwe afspeellijst:</translation>
     </message>
     <message>
         <location filename="../../src/library/baseplaylistfeature.cpp" line="63"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="388"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="397"/>
         <source>Export Playlist</source>
         <translation>Afspeellijst exporteren</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="151"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="164"/>
         <source>Rename Playlist</source>
         <translation>Afspeellijst hernoemen</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="164"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="168"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="177"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="181"/>
         <source>Renaming Playlist Failed</source>
         <translation>Afspeellijst hernoemen mislukt</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="165"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="212"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="266"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="178"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="220"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="274"/>
         <source>A playlist by that name already exists.</source>
         <translation>Er bestaat al een afspeellijst met deze naam.</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="169"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="216"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="270"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="182"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="224"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="278"/>
         <source>A playlist cannot have a blank name.</source>
         <translation>Een afspeellijst kan geen lege naam hebben.</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="201"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="209"/>
         <source>_copy</source>
         <comment>[noun]</comment>
         <extracomment>Appendix to default name when duplicating a playlist</extracomment>
         <translation>_kopieer</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="211"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="215"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="265"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="269"/>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="282"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="219"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="223"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="273"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="277"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="290"/>
         <source>Playlist Creation Failed</source>
         <translation>Afspeellijst aanmaken mislukt</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="283"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="291"/>
         <source>An unknown error occurred while creating playlist: </source>
         <translation>Een onbekende fout is opgetreden bij het maken van een afspeellijst: </translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="327"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="335"/>
         <source>Playlist Files (*.m3u *.m3u8 *.pls *.csv)</source>
         <translation>Afspeellijstbestanden (*.m3u *.m3u8 *.pls *.csv)</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="385"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="394"/>
         <source>M3U Playlist (*.m3u)</source>
         <translation>M3U Afspeellijst (*.m3u)</translation>
     </message>
     <message>
-        <location filename="../../src/library/baseplaylistfeature.cpp" line="390"/>
+        <location filename="../../src/library/baseplaylistfeature.cpp" line="399"/>
         <source>M3U Playlist (*.m3u);;M3U8 Playlist (*.m3u8);;PLS Playlist (*.pls);;Text CSV (*.csv);;Readable Text (*.txt)</source>
         <translation>M3U-afspeellijst (*.m3u);;M3U8-afspeellijst (*.m3u8);;PLS-afspeellijst (*.pls);; CSV-tekst (*.csv);;Leesbare tekst (*.txt)</translation>
     </message>
@@ -401,7 +401,7 @@
     <message>
         <location filename="../../src/library/browse/browsefeature.cpp" line="150"/>
         <source>Music Directory Added</source>
-        <translation>Muziekbibliotheek toegevoegd</translation>
+        <translation>Muziekmap toegevoegd</translation>
     </message>
     <message>
         <location filename="../../src/library/browse/browsefeature.cpp" line="151"/>
@@ -558,7 +558,7 @@
     <message>
         <location filename="../../src/library/browse/browsetablemodel.cpp" line="398"/>
         <source>Could not update file metadata.</source>
-        <translation>De metadata van het bestand kan niet geüpdatet worden.</translation>
+        <translation>De metagegevens van het bestand kunnen niet bijgewerkt worden.</translation>
     </message>
 </context>
 <context>
@@ -620,7 +620,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="17"/>
         <source>Master Output</source>
-        <translation>Masteruitvoer</translation>
+        <translation>Uitvoer hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="18"/>
@@ -685,7 +685,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="36"/>
         <source>Master delay</source>
-        <translation>Vertraging master</translation>
+        <translation>Vertraging hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="38"/>
@@ -695,7 +695,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="39"/>
         <source>Toggle headphone split cueing</source>
-        <translation>Omschakelen hoofdtelefoon Cue Split</translation>
+        <translation>Omschakelen hoofdtelefoon cue split</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="40"/>
@@ -710,7 +710,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="49"/>
         <source>Strip-search through track</source>
-        <translation>Strip-search doorheen track</translation>
+        <translation>Zoekstrip doorheen track</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="44"/>
@@ -826,7 +826,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="85"/>
         <source>BPM tap button</source>
-        <translation>BPM tiktoets</translation>
+        <translation>BPM aantiktoets</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="94"/>
@@ -836,32 +836,32 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="104"/>
         <source>Increase internal master BPM by 1</source>
-        <translation>Verhoog interne master BPM met 1</translation>
+        <translation>Verhoog BPM interne hoofduitgang met 1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="107"/>
         <source>Decrease internal master BPM by 1</source>
-        <translation>Verlaag interne master BPM met 1</translation>
+        <translation>Verlaag BPM interne hoofduitgang met 1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="110"/>
         <source>Increase internal master BPM by 0.1</source>
-        <translation>Verhoog interne master BPM met 0.1</translation>
+        <translation>Verhoog BPM interne hoofduitgang met 0.1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="112"/>
         <source>Decrease internal master BPM by 0.1</source>
-        <translation>Verlaag interne master BPM met 0.1</translation>
+        <translation>Verlaag BPM interne hoofduitgang met 0.1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="113"/>
         <source>Toggle sync master</source>
-        <translation>Omschakelen Sync Master</translation>
+        <translation>Omschakelen SyncMaster</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="115"/>
         <source>Sync mode 3-state toggle (OFF, FOLLOWER, MASTER)</source>
-        <translation>Sync modus omschakelen (OFF, FOLLOWER, MASTER)</translation>
+        <translation>Sync-modus 3-standenomschakeling (OFF, FOLLOWER, MASTER)</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="117"/>
@@ -956,7 +956,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="184"/>
         <source>Preview from cue point</source>
-        <translation>Voorbeluisteren vanaf Cue punt</translation>
+        <translation>Voorbeeld vanaf Cue punt</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="186"/>
@@ -971,48 +971,48 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="191"/>
         <source>Hotcues</source>
-        <translation>Hot Cues</translation>
+        <translation>Hotcues</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="199"/>
         <source>Set, preview from or jump to hotcue %1</source>
-        <translation>Zet, voorbeluisteren vanaf of spring naar Hot Cue %1</translation>
+        <translation>Zet, voorbeeld vanaf, of spring naar hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="200"/>
         <source>Clear hotcue %1</source>
-        <translation>Wis Hot Cue %1</translation>
+        <translation>Wis hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="201"/>
         <source>Set hotcue %1</source>
-        <translation>Zet Hot Cue %1</translation>
+        <translation>Zet hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="202"/>
         <source>Jump to hotcue %1</source>
-        <translation>Spring naar Hot Cue %1</translation>
+        <translation>Spring naar hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="203"/>
         <source>Jump to hotcue %1 and stop</source>
-        <translation>Spring naar Hot Cue %1 en stop</translation>
+        <translation>Spring naar hotcue %1 en stop</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="204"/>
         <source>Jump to hotcue %1 and play</source>
-        <translation>Spring naar Hot Cue %1 en stop</translation>
+        <translation>Spring naar hotcue %1 en stop</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="205"/>
         <source>Preview from hotcue %1</source>
-        <translation>Voorbeluisteren vanaf Hot Cue %1</translation>
+        <translation>Voorbeeld vanaf hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="192"/>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="207"/>
         <source>Hotcue %1</source>
-        <translation>Hot Cue %1</translation>
+        <translation>Hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="239"/>
@@ -1143,17 +1143,17 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="33"/>
         <source>Master crossfader</source>
-        <translation>Master Cross-Fader</translation>
+        <translation>Cross-fader hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="35"/>
         <source>Master Balance</source>
-        <translation>Master balans</translation>
+        <translation>Balans hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="36"/>
         <source>Master Delay</source>
-        <translation>Vertraging master</translation>
+        <translation>Vertraging hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="38"/>
@@ -1163,7 +1163,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="39"/>
         <source>Headphone Split Cue</source>
-        <translation>Hoofdtelefoon Cue split</translation>
+        <translation>Hoofdtelefoon cue split</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="40"/>
@@ -1198,7 +1198,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="48"/>
         <source>Strip Search</source>
-        <translation>Strip Search</translation>
+        <translation>Zoekstrip</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="50"/>
@@ -1290,7 +1290,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="63"/>
         <source>Track Gain knob</source>
-        <translation>Knop Track ingangsvolume</translation>
+        <translation>Knop track ingangsvolume</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="64"/>
@@ -1457,43 +1457,43 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="99"/>
         <source>Internal Sync Master</source>
-        <translation>Interne Sync Master</translation>
+        <translation>Interne SyncMaster</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="100"/>
         <source>Toggle Internal Sync Master</source>
-        <translation>Omschakelen interne Sync Master</translation>
+        <translation>Omschakelen interne SyncMaster</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="101"/>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="102"/>
         <source>Internal Master BPM</source>
-        <translation>BPM Interne Master</translation>
+        <translation>BPM interne hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="103"/>
         <source>Internal Master BPM +1</source>
-        <translation>BPM Interne Master +1</translation>
+        <translation>BPM interne hoofduitgang +1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="106"/>
         <source>Internal Master BPM -1</source>
-        <translation>BPM Interne Master -1</translation>
+        <translation>BPM interne hoofduitgang -1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="109"/>
         <source>Internal Master BPM +0.1</source>
-        <translation>BPM Interne Master +0.1</translation>
+        <translation>BPM interne hoofduitgang +0.1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="111"/>
         <source>Internal Master BPM -0.1</source>
-        <translation>BPM Interne Master -0.1</translation>
+        <translation>BPM interne hoofduitgang -0.1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="113"/>
         <source>Sync Master</source>
-        <translation>Sync Master</translation>
+        <translation>SyncMaster</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="116"/>
@@ -1588,12 +1588,12 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="163"/>
         <source>Toggle Vinyl Control</source>
-        <translation>Vinylbediening omschakelen</translation>
+        <translation>Omschakelen vinylbediening</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="164"/>
         <source>Toggle Vinyl Control (ON/OFF)</source>
-        <translation>Vinylbediening aan/uit schakelen</translation>
+        <translation>Omschakelen vinylbediening (AAN/UIT)</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="165"/>
@@ -1648,7 +1648,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="183"/>
         <source>Preview Cue</source>
-        <translation>Voorbeluisteren Cue</translation>
+        <translation>Voorbeeld van Cue</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="185"/>
@@ -1663,32 +1663,32 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="193"/>
         <source>Clear Hotcue %1</source>
-        <translation>Verwijder Hot Cue %1</translation>
+        <translation>Verwijder hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="194"/>
         <source>Set Hotcue %1</source>
-        <translation>Zet Hot Cue %1</translation>
+        <translation>Zet hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="195"/>
         <source>Jump To Hotcue %1</source>
-        <translation>Spring naar Hot Cue %1</translation>
+        <translation>Spring naar hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="196"/>
         <source>Jump To Hotcue %1 And Stop</source>
-        <translation>Spring naar Hot Cue %1 en stop</translation>
+        <translation>Spring naar hotcue %1 en stop</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="197"/>
         <source>Jump To Hotcue %1 And Play</source>
-        <translation>Spring naar Hot Cue %1 en start</translation>
+        <translation>Spring naar hotcue %1 en start</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="198"/>
         <source>Preview Hotcue %1</source>
-        <translation>Voorbeluisteren Hot Cue %1</translation>
+        <translation>Voorbeeld van hotcue %1</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="240"/>
@@ -1778,12 +1778,12 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="329"/>
         <source>Expand/Collapse View</source>
-        <translation>Uitklappen/inklappen weergave</translation>
+        <translation>Vouw weergave open/dicht</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="330"/>
         <source>Expand/collapse the selected view (library, playlist..)</source>
-        <translation>Klap geselecteerde weergave uit/in (bibliotheek, afspeellijst..)</translation>
+        <translation>Vouw geselecteerde weergave open/dicht (bibliotheek, afspeellijst..)</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="334"/>
@@ -1863,7 +1863,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="363"/>
         <source>Append the selected track to the Auto DJ Queue</source>
-        <translation type="unfinished"/>
+        <translation>Voeg de geselecteerde track toe aan de AutoDJ wachtrij</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="366"/>
@@ -1873,7 +1873,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="367"/>
         <source>Prepend selected track to the Auto DJ Queue</source>
-        <translation type="unfinished"/>
+        <translation>Voeg de geselecteerde track vooraan toe in de AutoDJ wachtrij</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="370"/>
@@ -1903,7 +1903,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="377"/>
         <source>Toggle mix recording</source>
-        <translation>Omschakelen opname mix</translation>
+        <translation>Omschakelen opnamemix</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="381"/>
@@ -2017,7 +2017,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="555"/>
         <source>Toggle the current effect</source>
-        <translation>Huidige effect omschakelen</translation>
+        <translation>Omschakelen huidig effect</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="559"/>
@@ -2094,12 +2094,12 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="703"/>
         <source>Library Maximize/Restore</source>
-        <translation type="unfinished"/>
+        <translation>Bibliotheek maximaliseren/herstellen</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="704"/>
         <source>Maximize the track library to take up all the available screen space.</source>
-        <translation type="unfinished"/>
+        <translation>Maximaliseer de track-bibliotheek om alle beschikbare schermruimte in gebruik te nemen.</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="706"/>
@@ -2109,7 +2109,7 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="707"/>
         <source>Show/hide the effect rack</source>
-        <translation>Toon/verberg effectenrek</translation>
+        <translation>Toon/verberg effectensectie</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="709"/>
@@ -2134,12 +2134,12 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="34"/>
         <source>Master Gain</source>
-        <translation>Master ingangsvolume</translation>
+        <translation>Versterking hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="34"/>
         <source>Master gain</source>
-        <translation>Master ingangsvolume</translation>
+        <translation>Versterking hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="37"/>
@@ -2320,12 +2320,12 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="675"/>
         <source>Auto DJ Shuffle</source>
-        <translation>AutoDJ schudden</translation>
+        <translation>AutoDJ willekeurig afspelen</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="676"/>
         <source>Shuffle the content of the Auto DJ playlist</source>
-        <translation>Schud de volgorde in de AutoDJ-afspeellijst door elkaar</translation>
+        <translation>Volgorde in de AutoDJ-afspeellijst door elkaar schudden</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="679"/>
@@ -2380,17 +2380,17 @@
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="698"/>
         <source>Show/hide the vinyl control section</source>
-        <translation>Toon/verberg sectie voor de vinylbediening</translation>
+        <translation>Toon/verberg vinylsectie</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="700"/>
         <source>Preview Deck Show/Hide</source>
-        <translation>Voorbeluisteringsspeler tonen/verbergen</translation>
+        <translation>Voorbeeldspeler tonen/verbergen</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="701"/>
         <source>Show/hide the preview deck</source>
-        <translation>Toon/verberg de voorbeluisteringsspeler</translation>
+        <translation>Toon/verberg de voorbeeldspeler</translation>
     </message>
     <message>
         <location filename="../../src/controllers/controlpickermenu.cpp" line="712"/>
@@ -2569,13 +2569,13 @@
     <message>
         <location filename="../../src/library/cratefeature.cpp" line="43"/>
         <source>Rename</source>
-        <translation>Hernoem</translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <location filename="../../src/library/cratefeature.cpp" line="47"/>
         <location filename="../../src/library/cratefeature.cpp" line="231"/>
         <source>Lock</source>
-        <translation>Vergrendel</translation>
+        <translation>Vergrendelen</translation>
     </message>
     <message>
         <location filename="../../src/library/cratefeature.cpp" line="59"/>
@@ -2769,7 +2769,7 @@
     <message>
         <location filename="../../src/dlganalysis.ui" line="97"/>
         <source>Runs beatgrid, key, and ReplayGain detection on the selected tracks. Does not generate waveforms for the selected tracks to save disk space.</source>
-        <translation>Voert detectie uit van beat-rooster, toonaard en afspeelversterking (ReplayGain) op de geselecteerde tracks. Genereert geen golfvormen op de geselecteerde tracks om schijfruimte te besparen.</translation>
+        <translation>Voert detectie uit van beat-rooster, toonaard en afspeelversterking op de geselecteerde tracks. Genereert geen golfvormen op de geselecteerde tracks om schijfruimte te besparen.</translation>
     </message>
     <message>
         <location filename="../../src/dlganalysis.cpp" line="138"/>
@@ -2814,12 +2814,12 @@
     <message>
         <location filename="../../src/dlgautodj.ui" line="46"/>
         <source>Shuffle the content of the Auto DJ playlist.</source>
-        <translation>Schud de volgorde in de AutoDJ-afspeellijst door elkaar.</translation>
+        <translation>Volgorde in de AutoDJ-afspeellijst door elkaar schudden.</translation>
     </message>
     <message>
         <location filename="../../src/dlgautodj.ui" line="49"/>
         <source>Shuffle</source>
-        <translation>Volgorde schudden</translation>
+        <translation>Willekeurige volgorde</translation>
     </message>
     <message>
         <location filename="../../src/dlgautodj.ui" line="59"/>
@@ -2903,7 +2903,9 @@ automatically shows a beat-grid for them, and allows you to synchronize tracks u
         <source>Enable fast beat detection. 
 If activated Mixxx only analyzes the first minute of a track for beat information. 
 This can speed up beat detection on slower computers but may result in lower quality beatgrids.</source>
-        <translation>Zet snelle beat detectie aan. Als dit aan staat, dan analyseert Mixxx enkel de eerste minuut van een nummer voor beat informatie. Dit kan de beat detectie versnellen, maar heeft mogelijk een verminderde kwaliteit van beat-roosters tot gevolg.</translation>
+        <translation>Activeer snelle beat-detectie.
+Als dit aan staat, dan analyseert Mixxx enkel de eerste minuut van een nummer voor beat informatie.
+Dit kan de beat detectie versnellen, maar heeft mogelijk een verminderde kwaliteit van beat-roosters als gevolg.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefbeatsdlg.ui" line="133"/>
@@ -2987,7 +2989,7 @@ Often results in higher quality beatgrids, but will not do well on tracks that h
     <message>
         <location filename="../../src/controllers/dlgcontrollerlearning.ui" line="32"/>
         <source>Controller Learning Wizard</source>
-        <translation>Controller leerassistent</translation>
+        <translation>Leerassistent controller</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgcontrollerlearning.ui" line="70"/>
@@ -3052,12 +3054,12 @@ Often results in higher quality beatgrids, but will not do well on tracks that h
     <message>
         <location filename="../../src/controllers/dlgcontrollerlearning.ui" line="356"/>
         <source>For jog wheels or infinite-scroll knobs. Interprets incoming messages in two&apos;s complement.</source>
-        <translation>Voor Jog Wheels en oneindige bladerknoppen, interpreteert inkomende berichten in 2-complement.</translation>
+        <translation>Voor bedieningswielen en oneindige bladerknoppen, interpreteert inkomende berichten in 2-complement.</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgcontrollerlearning.ui" line="359"/>
         <source>Jog Wheel / Select Knob</source>
-        <translation>Jog Wheel / Selectieknop</translation>
+        <translation>Bedieningswiel / Selectieknop</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgcontrollerlearning.ui" line="387"/>
@@ -3141,7 +3143,7 @@ This could be because you are using an old skin and this control is no longer su
 
 You tried to learn: %1,%2</source>
         <translation>Het bedieningselement dat je hebt aangeklikt in Mixxx kan geen functie leren.
-Dat kan zijn omdat je een oude stijl gebruikt en dit element niet meer wordt ondersteund.
+Dat kan zijn omdat je een oud thema gebruikt waarin dit element niet meer wordt ondersteund.
 
 Je probeerde %1,%2 aan te leren.</translation>
     </message>
@@ -3290,7 +3292,7 @@ Je probeerde %1,%2 aan te leren.</translation>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="39"/>
         <source>Minimum available tracks in Track Source</source>
-        <translation>Minimum aantal beschikbare Tracks in Track-bron</translation>
+        <translation>Minimum aantal beschikbare tracks in track-bron</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="46"/>
@@ -3310,7 +3312,7 @@ Je probeerde %1,%2 aan te leren.</translation>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="65"/>
         <source>Suspend track in Track Source from re-queue</source>
-        <translation>Schors toevoegen van track in Track-bron aan wachtrij</translation>
+        <translation>Schors toevoegen van track in track-bron aan wachtrij</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="72"/>
@@ -3325,7 +3327,7 @@ Je probeerde %1,%2 aan te leren.</translation>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="102"/>
         <source>Add random tracks from Track Source if the specified minimum tracks remain</source>
-        <translation>Voeg willekeurig tracks toe van Track-bron wanneer het aangegeven minimum aan tracks overblijft.</translation>
+        <translation>Voeg willekeurig tracks toe van track-bron wanneer het aangegeven minimum aan tracks overblijft.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefautodjdlg.ui" line="109"/>
@@ -3350,7 +3352,7 @@ Je probeerde %1,%2 aan te leren.</translation>
         <source>Your settings must be applied before starting the learning wizard.
 Apply settings and continue?</source>
         <translation>Je instellingen moeten worden toegepast vóór het begin van de leerassistent.
-Wilt je je instellingen toepassen en verder gaan?</translation>
+Wil je je instellingen toepassen en doorgaan?</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontroller.cpp" line="166"/>
@@ -3426,7 +3428,7 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/controllers/dlgprefcontroller.cpp" line="636"/>
         <source>Controller Script Files (*.js)</source>
-        <translation>Controller script-bestanden (*.js)</translation>
+        <translation>Script-bestanden controller (*.js)</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontroller.cpp" line="645"/>
@@ -3498,12 +3500,12 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollerdlg.ui" line="20"/>
         <source>Controller Preferences</source>
-        <translation>Controller voorkeuren</translation>
+        <translation>Voorkeuren controller</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollerdlg.ui" line="30"/>
         <source>Controller Setup</source>
-        <translation>Instellingen Controller</translation>
+        <translation>Instellingen controller</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollerdlg.ui" line="193"/>
@@ -3539,7 +3541,7 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollerdlg.ui" line="512"/>
         <source>Open In Text Editor</source>
-        <translation>Open in tekstbewerker</translation>
+        <translation>Openen in tekstbewerker</translation>
     </message>
 </context>
 <context>
@@ -3547,7 +3549,7 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollersdlg.ui" line="14"/>
         <source>Controller Preferences</source>
-        <translation>Voorkeuren Controller</translation>
+        <translation>Voorkeuren controller</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollersdlg.ui" line="20"/>
@@ -3562,7 +3564,7 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollersdlg.ui" line="66"/>
         <source>Mixxx did not detect any controllers. If you connected the controller while Mixxx was running you must restart Mixxx first.</source>
-        <translation>Mixxx heeft geen Controllers gedetecteerd. Als je de Controller hebt verbonden terwijl Mixxx liep, dan moet je Mixxx opnieuw starten.</translation>
+        <translation>Mixxx heeft geen controllers gedetecteerd. Als je de controller hebt verbonden terwijl Mixxx liep, dan moet je Mixxx opnieuw starten.</translation>
     </message>
     <message>
         <location filename="../../src/controllers/dlgprefcontrollersdlg.ui" line="79"/>
@@ -3709,7 +3711,7 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="249"/>
         <source>The minimum size of the selected skin is bigger than your screen resolution.</source>
-        <translation>De minimale grootte van de geselecteerde stijl is groter dan je schermresolutie.</translation>
+        <translation>De minimale grootte voor het geselecteerde thema is groter dan je schermresolutie.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="302"/>
@@ -3719,17 +3721,17 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="332"/>
         <source>Reset key adjustment on track load</source>
-        <translation type="unfinished"/>
+        <translation>Herstel toonaard bij het laden van de track</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="333"/>
         <source>Reset key and speed on track load</source>
-        <translation type="unfinished"/>
+        <translation>Herstel toonaard en snelheid bij het laden van de track</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="362"/>
         <source>This skin does not support color schemes</source>
-        <translation>Deze stijl ondersteunt geen kleurenschema &apos;s</translation>
+        <translation>Dit thema ondersteunt geen kleurenschema &apos;s</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrols.cpp" line="100"/>
@@ -3810,43 +3812,9 @@ Wilt je je instellingen toepassen en verder gaan?</translation>
         <translation>Toonvergrendelingsmodus</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="610"/>
-        <source>Mixxx mode: 
-- Cue button while pause at cue point = preview
-- Cue button while pause not at cue point = set cue point
-- Cue button while playing = pause at cue point
-Pioneer mode:
-- Same as Mixxx mode with a flashing play button
-Denon mode:
-- Cue button at cue point = preview
-- Cue button not at cue point = pause at cue point
-- Play = set cue point
-Numark mode:
-- Same as Denon mode, but without a flashing play button
-        </source>
-        <translation>Mixxx-modus:
-- Cue-knop tijdens pauze op cue-punt = voorbeeld
-- Cue-knop tiijdens pauze buiten cue-punt = zet cue-punt
-- Cue-knop tijdens afspelen = op pauze zetten op cue-punt
-Pionier-modus:
-- als Mixxx-modus met een knipperende afspeelknop
-Denon-modus:
-- Cue-knop op cue-punt = voorbeeld
-- Cue-knop buiten cue-punt = op pauze zetten op cue-punt
-- Afspelen = zet cue-punt
-Numark mode:
-- Als Denon-modus, maar zonder knipperende afspeelknop
-        </translation>
-    </message>
-    <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="395"/>
         <source>Start in full screen mode</source>
         <translation>Start in volledig scherm</translation>
-    </message>
-    <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="339"/>
-        <source>Reset speed and pitch </source>
-        <translation>Herstel snelheid en toonhoogte</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="446"/>
@@ -3861,7 +3829,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="484"/>
         <source>Select from different color schemes of a skin if available.</source>
-        <translation>Kies uit verschillende kleurenschema&apos;s voor een stijl indien beschikbaar.</translation>
+        <translation>Kies uit verschillende kleurenschema&apos;s voor een thema indien beschikbaar.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="532"/>
@@ -3869,24 +3837,46 @@ Numark mode:
         <translation>Kleurenschema</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="629"/>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="597"/>
+        <source>Automatically seeks to the first saved cue point on track load. If none exists, seeks to the beginning of the track.</source>
+        <translation>Spoelt automatisch naar het eerste opgeslagen cue-punt bij het laden van een track. Als er geen bestaat, spoelt naar het begin van de track.</translation>
+    </message>
+    <message>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="614"/>
+        <source>Mixxx mode:
+- Cue button while pause at cue point = preview
+- Cue button while pause not at cue point = set cue point
+- Cue button while playing = pause at cue point
+Pioneer mode:
+- Same as Mixxx mode with a flashing play button
+Denon mode:
+- Cue button at cue point = preview
+- Cue button not at cue point = pause at cue point
+- Play = set cue point
+Numark mode:
+- Same as Denon mode, but without a flashing play button
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="633"/>
         <source>Seek to cue</source>
         <translation>Spoel naar cue-punt</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="639"/>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="643"/>
         <source>Locales determine country and language specific settings.</source>
-        <translation>Landinstellingen bepalen land en taalspecifieke instellingen.</translation>
+        <translation>Regionale instellingen bepalen land en taalspecifieke instellingen.</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="646"/>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="650"/>
         <source>Playing track protection</source>
         <translation>Bescherming spelende track</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefcontrolsdlg.ui" line="600"/>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="604"/>
         <source>Locale</source>
-        <translation>Taalregio</translation>
+        <translation>Regio</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="112"/>
@@ -3926,17 +3916,17 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="26"/>
         <source>Ramping Pitchbend</source>
-        <translation>Ramping Pitchbend</translation>
+        <translation>Oplopende toonombuiging</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="38"/>
         <source>Pitchbend sensitivity</source>
-        <translation>Pitch verbuigings gevoeligheid</translation>
+        <translation>Gevoeligheid toonombuiging</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="274"/>
         <source>Permanent rate change when left-clicking</source>
-        <translation>Permanente snelheidsveranderen bij het links-klikken</translation>
+        <translation>Permanente verandering snelheid bij links klikken</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="14"/>
@@ -3947,6 +3937,11 @@ Numark mode:
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="221"/>
         <source>Permanent Speed Adjustment Buttons</source>
         <translation>Knoppen voor permanente snelheidsregeling</translation>
+    </message>
+    <message>
+        <location filename="../../src/dlgprefcontrolsdlg.ui" line="339"/>
+        <source>Reset speed and pitch</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="500"/>
@@ -3966,7 +3961,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="302"/>
         <source>Permanent rate change when right-clicking</source>
-        <translation>Permanente snelheidsveranderen bij het rechts-klikken</translation>
+        <translation>Permanente verandering snelheid bij rechts klikken</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcontrolsdlg.ui" line="73"/>
@@ -3999,17 +3994,17 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefcrossfaderdlg.ui" line="45"/>
         <source>Constant power</source>
-        <translation>Gelijke overgang</translation>
+        <translation>Constant vermogen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcrossfaderdlg.ui" line="58"/>
         <source>Mixing</source>
-        <translation>Mengen</translation>
+        <translation>Mixen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcrossfaderdlg.ui" line="78"/>
         <source>Scratching</source>
-        <translation>Scratching</translation>
+        <translation>Scratchen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefcrossfaderdlg.ui" line="117"/>
@@ -4024,7 +4019,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefcrossfaderdlg.ui" line="199"/>
         <source>Reverse crossfader (Hamster Style)</source>
-        <translation>Omgekeerde cross-fader (Hamster stijl)</translation>
+        <translation>Omgekeerde cross-fader (Hamster-stijl)</translation>
     </message>
 </context>
 <context>
@@ -4092,7 +4087,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefeqdlg.ui" line="103"/>
         <source>High Shelf EQ</source>
-        <translation>Hoge &quot;Shelving&quot; toonregeling</translation>
+        <translation>Hoge &quot;Shelf&quot;-toonregeling</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefeqdlg.ui" line="150"/>
@@ -4113,7 +4108,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefeqdlg.ui" line="361"/>
         <source>Miscellaneous</source>
-        <translation>Overig</translation>
+        <translation>Diversen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefeqdlg.ui" line="377"/>
@@ -4134,7 +4129,7 @@ Numark mode:
     <message>
         <location filename="../../src/dlgprefeqdlg.ui" line="202"/>
         <source>Low Shelf EQ</source>
-        <translation>Lage &quot;Shelving&quot; toonregeling</translation>
+        <translation>Lage &quot;Shelf&quot;-toonregeling</translation>
     </message>
 </context>
 <context>
@@ -4191,7 +4186,7 @@ Numark mode:
         <location filename="../../src/dlgprefkeydlg.ui" line="20"/>
         <source>When key detection is enabled, Mixxx detects the musical key of your tracks 
 and allows you to pitch adjust them for harmonic mixing.</source>
-        <translation>Wanneer toondetectie aanstaat, detecteert Mixxx de toonaard van je tracks
+        <translation>Wanneer toonaarddetectie aanstaat, detecteert Mixxx de toonaard van je tracks
 en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</translation>
     </message>
     <message>
@@ -4222,7 +4217,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="90"/>
         <source>Enable Fast Analysis (For slow computers, may be less accurate)</source>
-        <translation>Snelle Analyse Activeren (Voor trage computers, kan minder nauwkeurig zijn)</translation>
+        <translation>Activeer snelle analyse (Voor trage computers, is mogelijk minder nauwkeurig)</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="97"/>
@@ -4232,7 +4227,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="113"/>
         <source>Key Notation</source>
-        <translation>Toonaard notatie</translation>
+        <translation>Toonaardnotatie</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="121"/>
@@ -4242,7 +4237,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="128"/>
         <source>OpenKey</source>
-        <translation>Open Key</translation>
+        <translation>Sleutel openen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefkeydlg.ui" line="135"/>
@@ -4380,7 +4375,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrary.cpp" line="95"/>
         <source>Music Directory Added</source>
-        <translation>Muziekbibliotheek toegevoegd</translation>
+        <translation>Muziekmap toegevoegd</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrary.cpp" line="96"/>
@@ -4420,7 +4415,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrary.cpp" line="233"/>
         <source>Delete Track Metadata</source>
-        <translation>Verwijder track-metadata</translation>
+        <translation>Verwijder metagegevens van de track</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrary.cpp" line="235"/>
@@ -4458,7 +4453,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="57"/>
         <source>Remove</source>
-        <translation>Wissen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="83"/>
@@ -4484,7 +4479,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="106"/>
         <source>Audio File Formats</source>
-        <translation>Audio bestandformaten</translation>
+        <translation>Formaten geluidsbestanden</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="115"/>
@@ -4504,7 +4499,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="142"/>
         <source>Available Online...</source>
-        <translation>Beschikbaar online</translation>
+        <translation>Online beschikbaar...</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="149"/>
@@ -4544,7 +4539,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="202"/>
         <source>Use relative paths for playlist export if possible</source>
-        <translation>Gebruik indien mogelijk relatieve paden voor speellijst uitvoer</translation>
+        <translation>Gebruik indien mogelijk relatieve paden bij exporteren van afspeellijsten</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="219"/>
@@ -4590,7 +4585,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="301"/>
         <source>Show Rhythmbox Library</source>
-        <translation>Toon Rythmbox Bibliotheek</translation>
+        <translation>Toon Rythmbox-bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="311"/>
@@ -4600,7 +4595,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="321"/>
         <source>Show iTunes Library</source>
-        <translation>Toon iTunes map</translation>
+        <translation>Toon iTunes-bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreflibrarydlg.ui" line="331"/>
@@ -4640,7 +4635,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
         <location filename="../../src/dlgprefmodplugdlg.ui" line="190"/>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="292"/>
         <source>Low</source>
-        <translation>Lage</translation>
+        <translation>Laag</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="183"/>
@@ -4692,7 +4687,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="299"/>
         <source>Reverb</source>
-        <translation>&apos;Reverb&apos; effect</translation>
+        <translation>Galm</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="306"/>
@@ -4752,7 +4747,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="425"/>
         <source>Decoding options for libmodplug, a software library for loading and rendering module files (MOD music, tracker music).</source>
-        <translation>Decodeeropties voor libmodplug, een softwarebibliotheek voor het laden en renderen van modulebestanden (MOD-muziek, tracker-muziek).</translation>
+        <translation>Decodeeropties voor libmodplug, een softwarebibliotheek voor het laden en weergeven van modulebestanden (MOD-muziek, tracker-muziek).</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="428"/>
@@ -4787,7 +4782,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="477"/>
         <source>8-tap FIR (extremely high quality)</source>
-        <translation>8-Tap FIR (extreem hoge kwaliteit)</translation>
+        <translation>8-taps FIR (extreem hoge kwaliteit)</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefmodplugdlg.ui" line="505"/>
@@ -4806,7 +4801,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefnovinyldlg.ui" line="26"/>
         <source>&lt;b&gt;This version of Mixxx does not support vinyl control.&lt;/b&gt; &lt;br&gt; Please visit &lt;a href=&quot;http://mixxx.org&quot;&gt;Mixxx.org&lt;/a&gt; for more information.</source>
-        <translation>&lt;b&gt;Deze versie van Mixxx ondersteund geen vinyl besturing&lt;/b&gt; &lt;br&gt;Bezoek &lt;a href=&quot;http://mixxx.org&quot;&gt;Mixxx.org&lt;/a&gt; voor meer informatie.</translation>
+        <translation>&lt;b&gt;Deze versie van Mixxx ondersteunt geen vinylbediening&lt;/b&gt; &lt;br&gt;Bezoek &lt;a href=&quot;http://mixxx.org&quot;&gt;Mixxx.org&lt;/a&gt; voor meer informatie.</translation>
     </message>
 </context>
 <context>
@@ -4832,12 +4827,12 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="20"/>
         <source>Recordings Directory</source>
-        <translation>Map voor opnamen</translation>
+        <translation>Opnamenmap</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="38"/>
         <source>Recordings Directory:</source>
-        <translation>Map voor opnamen</translation>
+        <translation>Opnamenmap:</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="67"/>
@@ -4847,7 +4842,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="77"/>
         <source>Encoding</source>
-        <translation>Encoderen</translation>
+        <translation>Aan het coderen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="85"/>
@@ -4863,7 +4858,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="151"/>
         <source>Low</source>
-        <translation>Lage</translation>
+        <translation>Laag</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="164"/>
@@ -4873,7 +4868,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="176"/>
         <source>Title</source>
-        <translation>Naam</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="198"/>
@@ -4903,7 +4898,7 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefrecorddlg.ui" line="280"/>
         <source>Split recordings at</source>
-        <translation>Splits opname op</translation>
+        <translation>Splits opnamen op</translation>
     </message>
 </context>
 <context>
@@ -4922,9 +4917,14 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
         <translation>Voorkeuren normalisatie</translation>
     </message>
     <message>
+        <location filename="../../src/dlgprefreplaygaindlg.ui" line="20"/>
+        <source>ReplayGain Loudness Normalization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="36"/>
         <source>Calculate ReplayGain normalization for tracks which are missing ReplayGain metadata.</source>
-        <translation>Bereken normalisatie afspeelversterking voor tracks zonder metadata voor afspeelversterking (ReplayGain).</translation>
+        <translation>Bereken normalisatie afspeelversterking voor tracks zonder metagegevens voor afspeelversterking.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="26"/>
@@ -4932,19 +4932,14 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
         <translation>Pas loudness-normalisatie toe op geladen tracks.</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefreplaygaindlg.ui" line="20"/>
-        <source>ReplayGain Loudness Normalization  </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="29"/>
         <source>Apply ReplayGain</source>
-        <translation>Pas afspeelversterking (ReplayGain) toe</translation>
+        <translation>Pas afspeelversterking toe</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="39"/>
         <source>Enable ReplayGain 1.0 Analysis</source>
-        <translation>Activeer ReplayGain 1.0 Analysis (Afspeelversterking)</translation>
+        <translation>Activeer ReplayGain 1.0 Analysis (Analyse afspeelversterking)</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="72"/>
@@ -4959,17 +4954,17 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="152"/>
         <source>When ReplayGain is enabled, adjust tracks lacking ReplayGain information by this amount.</source>
-        <translation>Wanneer afspeelversterking is ingeschakeld, pas nummers zonder metadata-informatie voor afspeelversterking (ReplayGain) aan met deze hoeveelheid.</translation>
+        <translation>Wanneer afspeelversterking is ingeschakeld, pas nummers zonder metagegevens voor afspeelversterking aan met deze hoeveelheid.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="155"/>
         <source>Initial boost without ReplayGain data</source>
-        <translation>Initiële versterking zonder gegevens voor afspeelversterking (ReplayGain)</translation>
+        <translation>Initiële versterking zonder gegevens voor afspeelversterking</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="162"/>
         <source>For tracks with ReplayGain, adjust the target loudness to this LUFS value (Loudness Units relative to Full Scale).</source>
-        <translation>Voor tracks met afspeelversterking (ReplayGain), pas de doel-loudness aan met deze LUFS-waarde ((Loudness Units relative to Full Scale).</translation>
+        <translation>Voor tracks met afspeelversterking, pas de doel-loudness aan met deze LUFS-waarde (Loudness Units relative to Full Scale).</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="165"/>
@@ -4986,14 +4981,14 @@ en stelt je in staat de toonhoogte aan te passen voor harmonisch mixen.</transla
         <source>ReplayGain targets a reference loudness of -18 LUFS (Loudness Units relative to Full Scale). You may increase it if you find Mixxx is too quiet or reduce it if you find that your tracks are clipping. You may also want to decrease the volume of unanalyzed tracks if you find they are often louder than ReplayGained tracks. For podcasting a loudness of -16 LUFS is recommended.
 
 The loudness target is approximate and assumes track pregain and master output level are unchanged.</source>
-        <translation>Afspeelversterking (ReplayGain) richt zich op een referentie-loudness van -18 LUFS (Loudness Units relative to Full Scale). Je kunt het verhogen als je vindt dat Mixxx te zacht wordt afgespeeld, of verkleinen als je oversturing waarneemt in je tracks. Je wilt mogelijk ook het volume van niet-geanaliseerde tracks verminderen als je vindt dat ze vaak luider zijn dan nummers met afspeelversterking (ReplayGain). Voor podcasting wordt een volume van -16 LUFS aanbevolen.
+        <translation>Afspeelversterking richt zich op een referentie-loudness van -18 LUFS (Loudness Units relative to Full Scale). Je kunt het verhogen als je vindt dat Mixxx te zacht wordt afgespeeld, of verkleinen als je oversturing waarneemt in je tracks. Je wilt mogelijk ook het volume van niet-geanaliseerde tracks verminderen als je vindt dat ze vaak luider zijn dan nummers met afspeelversterking. Voor podcasting wordt een volume van -16 LUFS aanbevolen.
 
-De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreGain) en Master uitgangsniveau ongewijzigd zijn gebleven.</translation>
+De doel-loudness is bij benadering en veronderstelt dat de track-voorregeling en het uitgangsniveau van de hoofduitgang ongewijzigd zijn gebleven.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="272"/>
         <source>When an unanalyzed track is playing, Mixxx will avoid an abrupt volume change by not applying a newly calculated ReplayGain value.</source>
-        <translation>Wanneer een niet-geanaliseerde track wordt afgespeeld, zal Mixxx een abrupte volumeverandering voorkomen door een nieuw berekende afspeelversterking (ReplayGain) niet toe te passen.</translation>
+        <translation>Wanneer een niet-geanaliseerde track wordt afgespeeld, zal Mixxx een abrupte volumeverandering voorkomen door een nieuw berekende afspeelversterking niet toe te passen.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefreplaygaindlg.ui" line="239"/>
@@ -5027,7 +5022,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
         <location filename="../../src/dlgprefshoutcast.cpp" line="90"/>
         <location filename="../../src/dlgprefshoutcast.cpp" line="198"/>
         <source>This stream is online for testing purposes!</source>
-        <translation>Deze stroom is beschikbaar voor testdoeleinden!</translation>
+        <translation>Deze stream is beschikbaar voor testdoeleinden!</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcast.cpp" line="97"/>
@@ -5066,7 +5061,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="472"/>
         <source>Mount</source>
-        <translation>Aankoppelen (mount)</translation>
+        <translation>Koppelen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="444"/>
@@ -5091,7 +5086,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="26"/>
         <source>Stream settings</source>
-        <translation>Stream instellingen</translation>
+        <translation>Instellingen stream</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="99"/>
@@ -5106,12 +5101,12 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="77"/>
         <source>Stream name</source>
-        <translation>Stream naam</translation>
+        <translation>Naam stream</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="38"/>
         <source>Mixxx Icecast Testing</source>
-        <translation>Mixxx Icecast testen</translation>
+        <translation>Testen Mixxx Icecast</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="112"/>
@@ -5156,7 +5151,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="218"/>
         <source>Encoding</source>
-        <translation>Encoderen</translation>
+        <translation>Aan het coderen</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="232"/>
@@ -5166,7 +5161,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="253"/>
         <source>Format</source>
-        <translation>Opmaak</translation>
+        <translation>Formaat</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="283"/>
@@ -5196,7 +5191,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="368"/>
         <source>Enable custom metadata</source>
-        <translation>Aangepaste metagegevens inschakelen</translation>
+        <translation>Activeer aangepaste metagegevens</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="380"/>
@@ -5206,7 +5201,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="397"/>
         <source>Title</source>
-        <translation>Naam</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefshoutcastdlg.ui" line="528"/>
@@ -5264,7 +5259,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefsound.cpp" line="139"/>
         <source>Master output</source>
-        <translation>Masteruitvoer</translation>
+        <translation>Hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsound.cpp" line="140"/>
@@ -5299,7 +5294,7 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
 %2</translation>
     </message>
     <message>
-        <location filename="../../src/dlgprefsound.cpp" line="477"/>
+        <location filename="../../src/dlgprefsound.cpp" line="478"/>
         <source>%1 ms</source>
         <translation>%1 ms</translation>
     </message>
@@ -5324,12 +5319,12 @@ De doel-loudness is bij benadering en veronderstelt dat track voorregeling (PreG
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="55"/>
         <source>Sample Rate</source>
-        <translation>Sample-ratio</translation>
+        <translation>Bemonsteringsfrequentie</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="32"/>
         <source>Audio Buffer</source>
-        <translation>Muziek Buffer</translation>
+        <translation>Muziekbuffer</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="25"/>
@@ -5363,7 +5358,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="110"/>
         <source>Master Delay</source>
-        <translation>Vertraging master</translation>
+        <translation>Vertraging hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="137"/>
@@ -5378,12 +5373,12 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="127"/>
         <source>Master Mix</source>
-        <translation>Master-mix</translation>
+        <translation>Mix hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="150"/>
         <source>Master Output Mode</source>
-        <translation>Master-uitvoermodus</translation>
+        <translation>Uitvoermodus hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="160"/>
@@ -5393,12 +5388,12 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="213"/>
         <source>Output</source>
-        <translation>Uitvoer</translation>
+        <translation>Uitgang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="236"/>
         <source>Input</source>
-        <translation>Invoer</translation>
+        <translation>Ingang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="308"/>
@@ -5428,7 +5423,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefsounddlg.ui" line="181"/>
         <source>Query Devices</source>
-        <translation>Query-apparaten</translation>
+        <translation>Apparaten opvragen</translation>
     </message>
 </context>
 <context>
@@ -5465,17 +5460,17 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="592"/>
         <source>Input</source>
-        <translation>Invoer</translation>
+        <translation>Ingang</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="737"/>
         <source>&lt;a href=&quot;http://www.mixxx.org/wiki/doku.php/vinyl_control#troubleshooting&quot;&gt;Troubleshooting&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://www.mixxx.org/wiki/doku.php/vinyl_control#troubleshooting&quot;&gt;Probleemoplossing&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://www.mixxx.org/wiki/doku.php/vinyl_control#troubleshooting&quot;&gt;Troubleshooting&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="20"/>
         <source>Vinyl Configuration</source>
-        <translation>Vinyl configuratie</translation>
+        <translation>Configuratie vinyl</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="38"/>
@@ -5500,7 +5495,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="582"/>
         <source>Show Signal Quality in Skin</source>
-        <translation>Toon signaal kwaliteit in de skin</translation>
+        <translation>Toon signaalkwaliteit in het thema</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="155"/>
@@ -5551,7 +5546,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="721"/>
         <source>Powered by xwax</source>
-        <translation>Mede mogelijk gemaakt door xwax</translation>
+        <translation>Aangedreven door xwax</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefvinyldlg.ui" line="731"/>
@@ -5574,7 +5569,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefwaveform.cpp" line="16"/>
         <source>HSV</source>
-        <translation>HSV</translation>
+        <translation>KVW</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefwaveform.cpp" line="17"/>
@@ -5602,7 +5597,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="42"/>
         <source>Frame rate</source>
-        <translation>Framesnelheid</translation>
+        <translation>Frame-snelheid</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="134"/>
@@ -5612,7 +5607,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="419"/>
         <source>Displays which OpenGL version is supported by the current platform.</source>
-        <translation>Toont welke OpenGL versie ondersteund wordt door het huidige besturingssysteem</translation>
+        <translation>Toont welke OpenGL-versie ondersteund wordt door het huidige platform.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="163"/>
@@ -5650,7 +5645,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="409"/>
         <source>Displays the actual frame rate.</source>
-        <translation>Laat de werkelijke frame rate zien</translation>
+        <translation>Toont de werkelijke frame-snelheid.</translation>
     </message>
     <message>
         <location filename="../../src/dlgprefwaveformdlg.ui" line="191"/>
@@ -5728,7 +5723,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgpreferences.cpp" line="155"/>
         <source>Sound Hardware</source>
-        <translation>Geluidhardware</translation>
+        <translation>Geluidsapparatuur</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreferences.cpp" line="161"/>
@@ -5778,7 +5773,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgpreferences.cpp" line="216"/>
         <source>Beat Detection</source>
-        <translation>Beat Detectie</translation>
+        <translation>Beat-detectie</translation>
     </message>
     <message>
         <location filename="../../src/dlgpreferences.cpp" line="222"/>
@@ -5825,7 +5820,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgrecording.ui" line="14"/>
         <source>Recordings</source>
-        <translation>Opnames</translation>
+        <translation>Opnamen</translation>
     </message>
     <message>
         <location filename="../../src/dlgrecording.ui" line="44"/>
@@ -5836,7 +5831,7 @@ milliseconds</extracomment>
         <location filename="../../src/dlgrecording.ui" line="51"/>
         <location filename="../../src/dlgrecording.cpp" line="121"/>
         <source>Start Recording</source>
-        <translation>Opname starten</translation>
+        <translation>Start opname</translation>
     </message>
     <message>
         <location filename="../../src/dlgrecording.cpp" line="60"/>
@@ -5846,7 +5841,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgrecording.cpp" line="119"/>
         <source>Stop Recording</source>
-        <translation>Opname stoppen</translation>
+        <translation>Stop opname</translation>
     </message>
     <message>
         <location filename="../../src/dlgrecording.cpp" line="143"/>
@@ -5881,7 +5876,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtagfetcher.ui" line="66"/>
         <source>Title</source>
-        <translation>Naam</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <location filename="../../src/dlgtagfetcher.ui" line="71"/>
@@ -5983,7 +5978,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="26"/>
         <source>Track Editor</source>
-        <translation>Nummer-editor</translation>
+        <translation>Track-bewerker</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="29"/>
@@ -6028,7 +6023,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="186"/>
         <source>Track #:</source>
-        <translation>Nummer #;</translation>
+        <translation>Track nr:</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="122"/>
@@ -6043,12 +6038,12 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="580"/>
         <source>Filetype:</source>
-        <translation>Bestandstype</translation>
+        <translation>Bestandstype:</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="502"/>
         <source>BPM:</source>
-        <translation>BPM</translation>
+        <translation>BPM:</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="518"/>
@@ -6068,12 +6063,12 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="652"/>
         <source>Reload track metadata from file</source>
-        <translation>Laad metadata van de track opnieuw in vanuit het bestand</translation>
+        <translation>Laad metagegevens van de track opnieuw in vanuit het bestand</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="645"/>
         <source>Get track metadata from MusicBrainz</source>
-        <translation>Haal metadata van de track op uit MusicBrainz</translation>
+        <translation>Haal metagegevens van de track op uit MusicBrainz</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="669"/>
@@ -6155,12 +6150,12 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="659"/>
         <source>Open in File Browser</source>
-        <translation>Openen in browser</translation>
+        <translation>Openen in verkenner</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="753"/>
         <source>Track BPM: </source>
-        <translation>Nummer BPM: </translation>
+        <translation>Track BPM:</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="766"/>
@@ -6180,17 +6175,17 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="793"/>
         <source>Tap to Beat</source>
-        <translation>Tab op Maat</translation>
+        <translation>Tik op maat</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="822"/>
         <source>Hint: Use the Library Analyze view to run BPM detection.</source>
-        <translation>Hint: Gebruik de Bibliotheek Analyseerder weergave om BPM detectie te draaien.</translation>
+        <translation>Tip: Gebruik de weergave &quot;bibliotheekanalyse&quot; om BPM-detectie uit te voeren.</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="850"/>
         <source>Cue Id</source>
-        <translation>Cue Id</translation>
+        <translation>Cue-nummer</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="855"/>
@@ -6200,7 +6195,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="860"/>
         <source>Hotcue</source>
-        <translation>Hete cue</translation>
+        <translation>Hotcue</translation>
     </message>
     <message>
         <location filename="../../src/dlgtrackinfo.ui" line="865"/>
@@ -6251,7 +6246,7 @@ milliseconds</extracomment>
         <translation>&amp;Annuleren</translation>
     </message>
     <message>
-        <location filename="../../src/dlgtrackinfo.cpp" line="161"/>
+        <location filename="../../src/dlgtrackinfo.cpp" line="159"/>
         <source>kbps</source>
         <translation>kbps</translation>
     </message>
@@ -6284,7 +6279,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/effects/effectsmanager.cpp" line="241"/>
         <source>Reverb</source>
-        <translation>&apos;Reverb&apos; effect</translation>
+        <translation>Galm</translation>
     </message>
     <message>
         <location filename="../../src/effects/effectsmanager.cpp" line="249"/>
@@ -6347,7 +6342,7 @@ milliseconds</extracomment>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="83"/>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="88"/>
         <source>Mixxx encountered a problem</source>
-        <translation>Mixxx vond een probleem</translation>
+        <translation>Mixxx ondervond een probleem</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="83"/>
@@ -6362,7 +6357,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="92"/>
         <source>Error setting non-blocking mode:</source>
-        <translation>Fout instelling ongeblokkeerde modus:</translation>
+        <translation>Fout bij instellen niet-blokkerende modus:</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="227"/>
@@ -6388,7 +6383,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="248"/>
         <source>Error setting mount!</source>
-        <translation>Fout bij instellen aankoppeling!</translation>
+        <translation>Fout bij koppelen!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="254"/>
@@ -6398,22 +6393,22 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="259"/>
         <source>Error setting stream name!</source>
-        <translation>Fout bij instellen stream naam!</translation>
+        <translation>Fout bij instellen stream-naam!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="264"/>
         <source>Error setting stream description!</source>
-        <translation>Fout bij instellen stream beschrijving!</translation>
+        <translation>Fout bij instellen beschrijving stream!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="269"/>
         <source>Error setting stream genre!</source>
-        <translation>Fout bij instellen stream genre!</translation>
+        <translation>Fout bij instellen stream-genre!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="274"/>
         <source>Error setting stream url!</source>
-        <translation>Fout bij instellen stream url!</translation>
+        <translation>Fout bij instellen stream-url!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="279"/>
@@ -6438,7 +6433,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="333"/>
         <source>Error: unknown server protocol!</source>
-        <translation>Fout: onbekend server protocol!</translation>
+        <translation>Fout: onbekend server-protocol!</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="338"/>
@@ -6449,24 +6444,24 @@ milliseconds</extracomment>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="471"/>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="488"/>
         <source>Lost connection to streaming server</source>
-        <translation>De verbinding met de stream server is verbroken</translation>
+        <translation>De verbinding met de streaming-server is verbroken</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="471"/>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="488"/>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="539"/>
         <source>Please check your connection to the Internet and verify that your username and password are correct.</source>
-        <translation>Gelieve uw internet verbinding te controleren en na te gaan dat u de juiste gebruikersnaam en wachtwoord gebruikt.</translation>
+        <translation>Gelieve uw internetverbinding te controleren en na te gaan dat u de juiste gebruikersnaam en wachtwoord gebruikt.</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="515"/>
         <source>Mixxx has successfully disconnected from the streaming server</source>
-        <translation>Mixxx werd met succes afgekoppeld van de streaming server</translation>
+        <translation>Mixxx werd met succes afgekoppeld van de streaming-server</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="536"/>
         <source>Mixxx has successfully connected to the streaming server</source>
-        <translation>Mixxx werd met succes verbonden met de streaming server</translation>
+        <translation>Mixxx werd met succes verbonden met de streaming-server</translation>
     </message>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="689"/>
@@ -6477,7 +6472,7 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/engine/sidechain/engineshoutcast.cpp" line="538"/>
         <source>Mixxx could not connect to streaming server</source>
-        <translation>Mixxx kan niet verbinden met de stream server</translation>
+        <translation>Mixxx kon niet verbinden met de streaming-server</translation>
     </message>
 </context>
 <context>
@@ -6561,58 +6556,58 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/waveform/widgets/hsvwaveformwidget.h" line="15"/>
         <source>HSV</source>
-        <translation>HSV</translation>
+        <translation>KVW</translation>
     </message>
 </context>
 <context>
     <name>HidController</name>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="197"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="193"/>
         <source>Generic HID Mouse</source>
         <translation>Generieke HID muis</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="198"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="194"/>
         <source>Generic HID Joystick</source>
         <translation>Generieke HID joystick</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="199"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="195"/>
         <source>Generic HID Gamepad</source>
         <translation>Generiek HID gamepad</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="200"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="196"/>
         <source>Generic HID Keyboard</source>
         <translation>Generiek HID toetsenbord</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="201"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="197"/>
         <source>Generic HID Multiaxis Controller</source>
-        <translation>Generieke HID multi-axis controller</translation>
+        <translation>Generieke HID multi-axis-controller</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="202"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="198"/>
         <source>Unknown HID Desktop Device</source>
         <translation>Onbekend HID bureaublad apparaat</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="209"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="205"/>
         <source>HID Infrared Control</source>
         <translation>HID infraroodbediening</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="211"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="207"/>
         <source>Unknown Apple HID Device</source>
         <translation>Onbekend Apple HID-apparaat</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="216"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="212"/>
         <source>HID Unknown Device</source>
         <translation>Onbekend HID-apparaat</translation>
     </message>
     <message>
-        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="222"/>
+        <location filename="../../src/controllers/hid/hidcontroller.cpp" line="218"/>
         <source>HID Interface Number</source>
         <translation>HID interface-nummer</translation>
     </message>
@@ -6629,17 +6624,17 @@ milliseconds</extracomment>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="143"/>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="208"/>
         <source>Select your iTunes library</source>
-        <translation>Selecteer jouw iTunes bibliotheek</translation>
+        <translation>Selecteer je iTunes-bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="171"/>
         <source>(loading) iTunes</source>
-        <translation>(laden) iTunes</translation>
+        <translation>iTunes (aan het laden)</translation>
     </message>
     <message>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="196"/>
         <source>Use Default Library</source>
-        <translation>Gebruik de standaard bibliotheek</translation>
+        <translation>Gebruik de standaardbibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="197"/>
@@ -6649,85 +6644,84 @@ milliseconds</extracomment>
     <message>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="750"/>
         <source>Error Loading iTunes Library</source>
-        <translation>Fout bij het laden van iTunes Bibliotheek</translation>
+        <translation>Fout bij het laden van de iTunes-bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/library/itunes/itunesfeature.cpp" line="751"/>
         <source>There was an error loading your iTunes library. Some of your iTunes tracks or playlists may not have loaded.</source>
-        <translation>Er was een foutmelding tijdens het laden van je iTunes bibliotheek. Sommige iTunes nummers of afspeellijsten zijn misschien niet geladen.</translation>
+        <translation>Er is een fout opetreden bij het laden van je iTunes-bibliotheek. Sommige iTunes-tracks of -afspeellijsten zijn mogelijk niet geladen.</translation>
     </message>
 </context>
 <context>
     <name>LegacySkinParser</name>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1044"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1055"/>
         <source>Safe Mode Enabled</source>
         <extracomment>Shown when Mixxx is running in safe mode.</extracomment>
         <translation>Veilige modus actief</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1053"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1064"/>
         <source>No OpenGL
 support.</source>
         <extracomment>Shown when Spinny can not be displayed. Please keep 
  unchanged</extracomment>
-        <translation>Geen OpenGL
-support.</translation>
+        <translation>Geen OpenGL-ondersteuning.</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1959"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1970"/>
         <source>activate</source>
         <translation>activeren</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1964"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1975"/>
         <source>toggle</source>
         <translation>omschakelen</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1974"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1985"/>
         <source>right</source>
         <translation>rechts</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1979"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1990"/>
         <source>left</source>
         <translation>links</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1984"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="1995"/>
         <source>right small</source>
         <translation>rechts klein</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1989"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2000"/>
         <source>left small</source>
         <translation>links klein</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1994"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2005"/>
         <source>up</source>
         <translation>omhoog</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="1999"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2010"/>
         <source>down</source>
         <translation>omlaag</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="2004"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2015"/>
         <source>up small</source>
         <translation>boven klein</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="2009"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2020"/>
         <source>down small</source>
         <translation>onder klein</translation>
     </message>
     <message>
-        <location filename="../../src/skin/legacyskinparser.cpp" line="2041"/>
+        <location filename="../../src/skin/legacyskinparser.cpp" line="2052"/>
         <source>Shortcut</source>
-        <translation>Snelkoppeling</translation>
+        <translation>Sneltoets</translation>
     </message>
 </context>
 <context>
@@ -6753,7 +6747,7 @@ support.</translation>
     <message>
         <location filename="../../src/library/scanner/libraryscannerdlg.cpp" line="34"/>
         <source>It&apos;s taking Mixxx a minute to scan your music library, please wait...</source>
-        <translation>Mixxx heeft een minuutje -of enkele- nodig om je muziekbibliotheek te scannen.
+        <translation>Mixxx heeft wat tijd nodig om je muziekbibliotheek te scannen.
 Even geduld a.u.b. ...</translation>
     </message>
     <message>
@@ -6764,7 +6758,7 @@ Even geduld a.u.b. ...</translation>
     <message>
         <location filename="../../src/library/scanner/libraryscannerdlg.cpp" line="63"/>
         <source>Scanning: </source>
-        <translation>Scannen: </translation>
+        <translation>Scannen:</translation>
     </message>
     <message>
         <location filename="../../src/library/scanner/libraryscannerdlg.cpp" line="76"/>
@@ -6777,12 +6771,12 @@ Even geduld a.u.b. ...</translation>
     <message>
         <location filename="../../src/controllers/midi/midicontroller.cpp" line="20"/>
         <source>MIDI Controller</source>
-        <translation>MIDI Controller</translation>
+        <translation>MIDI-controller</translation>
     </message>
     <message>
         <location filename="../../src/controllers/midi/midicontroller.cpp" line="135"/>
         <source>MixxxControl(s) not found</source>
-        <translation>MixxxControle(s) niet gevonden</translation>
+        <translation>Mixxx-bediening(en) niet gevonden</translation>
     </message>
     <message>
         <location filename="../../src/controllers/midi/midicontroller.cpp" line="136"/>
@@ -6812,12 +6806,12 @@ Even geduld a.u.b. ...</translation>
     <message>
         <location filename="../../src/library/mixxxlibraryfeature.cpp" line="27"/>
         <source>Missing Tracks</source>
-        <translation>Ontbrekende Nummers</translation>
+        <translation>Ontbrekende tracks</translation>
     </message>
     <message>
         <location filename="../../src/library/mixxxlibraryfeature.cpp" line="28"/>
         <source>Hidden Tracks</source>
-        <translation>Verborgen nummers</translation>
+        <translation>Verborgen tracks</translation>
     </message>
     <message>
         <location filename="../../src/library/mixxxlibraryfeature.cpp" line="141"/>
@@ -6828,668 +6822,662 @@ Even geduld a.u.b. ...</translation>
 <context>
     <name>MixxxMainWindow</name>
     <message>
-        <location filename="../../src/mixxx.cpp" line="307"/>
+        <location filename="../../src/mixxx.cpp" line="304"/>
         <source>Choose music library directory</source>
-        <translation>Kies een muziek bibliotheek map</translation>
+        <translation>Kies map voor muziekbibliotheek</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="689"/>
-        <location filename="../../src/mixxx.cpp" line="1640"/>
-        <location filename="../../src/mixxx.cpp" line="1827"/>
-        <location filename="../../src/mixxx.cpp" line="1861"/>
-        <location filename="../../src/mixxx.cpp" line="1890"/>
-        <location filename="../../src/mixxx.cpp" line="1959"/>
+        <location filename="../../src/mixxx.cpp" line="1661"/>
+        <location filename="../../src/mixxx.cpp" line="1848"/>
+        <location filename="../../src/mixxx.cpp" line="1882"/>
+        <location filename="../../src/mixxx.cpp" line="1911"/>
+        <location filename="../../src/mixxx.cpp" line="1980"/>
         <source>Mixxx</source>
         <translation>Mixxx</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="691"/>
-        <source>Mixxx %1 x64</source>
-        <translation>Mixxx %1 x64</translation>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="693"/>
-        <source>Mixxx %1 Itanium</source>
-        <translation>Mixxx %1 Itanium</translation>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="695"/>
-        <source>Mixxx %1</source>
-        <translation>Mixxx %1</translation>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="957"/>
+        <location filename="../../src/mixxx.cpp" line="952"/>
         <source>Sound Device Busy</source>
-        <translation>Geluid Apparaat Bezig</translation>
+        <translation>Geluidsapparaat bezig</translation>
+    </message>
+    <message>
+        <location filename="../../src/mixxx.cpp" line="955"/>
+        <source>Mixxx was unable to access all the configured sound devices. Another application is using a sound device Mixxx is configured to use or a device is not plugged in.</source>
+        <translation>Mixxx was niet in staat om toegang te krijgen tot alle geconfigureerde geluidsapparaten. Een andere applicatie gebruikt een geluidsapparaat waar Mixxx toegang toe wil of een apparaat is niet aangesloten.</translation>
     </message>
     <message>
         <location filename="../../src/mixxx.cpp" line="960"/>
-        <source>Mixxx was unable to access all the configured sound devices. Another application is using a sound device Mixxx is configured to use or a device is not plugged in.</source>
-        <translation>Mixxx was niet in staat om toegang te krijgen tot alle geconfigureerde geluidsapparaten. Een andere applicatie gebruikt een geluidsapparaat waar Mixxx gebruik van maakt of een apparaat is niet aangesloten.</translation>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="965"/>
         <source>&lt;b&gt;Retry&lt;/b&gt; after closing the other application or reconnecting a sound device</source>
-        <translation>&lt;b&gt;Probeer opnieuw&lt;/b&gt; na het afsluiten van de andere applicatie of opnieuw aansluiten van een geluidsapparaat</translation>
+        <translation>&lt;b&gt;Opnieuw proberen&lt;/b&gt; na het afsluiten van de andere applicatie of na het opnieuw aansluiten van een geluidsapparaat?</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="969"/>
-        <location filename="../../src/mixxx.cpp" line="1033"/>
+        <location filename="../../src/mixxx.cpp" line="964"/>
+        <location filename="../../src/mixxx.cpp" line="1028"/>
         <source>&lt;b&gt;Reconfigure&lt;/b&gt; Mixxx&apos;s sound device settings.</source>
-        <translation>&lt;b&gt;Herconfigureren&lt;/b&gt; Mixxx&apos;s geluidsapparaat instellingen.</translation>
+        <translation>Mixxx&apos; geluidsinstellingen &lt;b&gt;opnieuw instellen&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="972"/>
+        <location filename="../../src/mixxx.cpp" line="967"/>
         <source>Get &lt;b&gt;Help&lt;/b&gt; from the Mixxx Wiki.</source>
-        <translation>Verkrijg &lt;b&gt;Hulp&lt;/b&gt; via de Mixxx Wiki.</translation>
+        <translation>&lt;b&gt;Hulp&lt;/b&gt; zoeken in de Mixxx Wiki?</translation>
+    </message>
+    <message>
+        <location filename="../../src/mixxx.cpp" line="970"/>
+        <location filename="../../src/mixxx.cpp" line="1031"/>
+        <source>&lt;b&gt;Exit&lt;/b&gt; Mixxx.</source>
+        <translation>Mixxx &lt;b&gt;afsluiten&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../../src/mixxx.cpp" line="975"/>
-        <location filename="../../src/mixxx.cpp" line="1036"/>
-        <source>&lt;b&gt;Exit&lt;/b&gt; Mixxx.</source>
-        <translation>&lt;b&gt;Sluit&lt;/b&gt; Mixxx.</translation>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="980"/>
         <source>Retry</source>
         <translation>Opnieuw proberen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="982"/>
-        <location filename="../../src/mixxx.cpp" line="1042"/>
+        <location filename="../../src/mixxx.cpp" line="977"/>
+        <location filename="../../src/mixxx.cpp" line="1037"/>
         <source>Reconfigure</source>
         <translation>Opnieuw instellen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="984"/>
+        <location filename="../../src/mixxx.cpp" line="979"/>
         <source>Help</source>
-        <translation>Help</translation>
+        <translation>Hulp</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="986"/>
-        <location filename="../../src/mixxx.cpp" line="1043"/>
+        <location filename="../../src/mixxx.cpp" line="981"/>
+        <location filename="../../src/mixxx.cpp" line="1038"/>
         <source>Exit</source>
         <translation>Afsluiten</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1025"/>
+        <location filename="../../src/mixxx.cpp" line="1020"/>
         <source>No Output Devices</source>
-        <translation>Geen Uitvoer Apparaten</translation>
+        <translation>Geen uitvoerapparaten</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1026"/>
+        <location filename="../../src/mixxx.cpp" line="1021"/>
         <source>Mixxx was configured without any output sound devices. Audio processing will be disabled without a configured output device.</source>
-        <translation>Mixxx is ingesteld zonder audio-uitvoer-apparaten. Audio verwerking is uitgeschakeld zolang er geen audio-uitvoer-apparaat is ingesteld.</translation>
+        <translation>Mixxx is ingesteld zonder uitvoerapparaten voor geluid. Geluidsverwerking wordt uitgeschakeld zonder een geconfigureerd uitvoerapparaat.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1030"/>
+        <location filename="../../src/mixxx.cpp" line="1025"/>
         <source>&lt;b&gt;Continue&lt;/b&gt; without any outputs.</source>
-        <translation>&lt;b&gt;Ga verder&lt;/b&gt;  zonder uitvoer.</translation>
+        <translation>&lt;b&gt;Doorgaan&lt;/b&gt;  zonder uitvoer.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1041"/>
+        <location filename="../../src/mixxx.cpp" line="1036"/>
         <source>Continue</source>
         <translation>Doorgaan</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1080"/>
+        <location filename="../../src/mixxx.cpp" line="1075"/>
         <source>Load Track to Deck &amp;%1</source>
         <translation>Laad track in speler &amp;%1</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1081"/>
+        <location filename="../../src/mixxx.cpp" line="1076"/>
         <source>Loads a track in deck %1</source>
         <translation>Laadt een nummer in speler %1</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1082"/>
+        <location filename="../../src/mixxx.cpp" line="1077"/>
         <source>Open</source>
-        <translation>Open</translation>
+        <translation>Openen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1089"/>
+        <location filename="../../src/mixxx.cpp" line="1084"/>
         <source>Ctrl+o</source>
         <translation>Ctrl+o</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1102"/>
+        <location filename="../../src/mixxx.cpp" line="1097"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1110"/>
+        <location filename="../../src/mixxx.cpp" line="1105"/>
         <source>&amp;Exit</source>
         <translation>&amp;Afsluiten</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1111"/>
+        <location filename="../../src/mixxx.cpp" line="1106"/>
         <source>Quits Mixxx</source>
         <translation>Sluit Mixxx af</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1115"/>
+        <location filename="../../src/mixxx.cpp" line="1110"/>
         <source>Ctrl+q</source>
         <translation>Ctrl+q</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1121"/>
+        <location filename="../../src/mixxx.cpp" line="1116"/>
         <source>&amp;Rescan Library</source>
         <translation>&amp;Bibliotheek opnieuw scannen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1122"/>
+        <location filename="../../src/mixxx.cpp" line="1117"/>
         <source>Rescans library folders for changes to tracks.</source>
         <translation>Scant bibliotheekmappen opnieuw voor veranderingen aan tracks.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1130"/>
+        <location filename="../../src/mixxx.cpp" line="1125"/>
         <source>Create &amp;New Playlist</source>
         <translation>Maak &amp;nieuwe afspeellijst</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1131"/>
+        <location filename="../../src/mixxx.cpp" line="1126"/>
         <source>Create a new playlist</source>
-        <translation>Nieuwe afspeellijst aanmaken</translation>
+        <translation>Nieuwe afspeellijst maken</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1136"/>
+        <location filename="../../src/mixxx.cpp" line="1131"/>
         <source>Ctrl+n</source>
         <translation>Ctrl+n</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1143"/>
+        <location filename="../../src/mixxx.cpp" line="1138"/>
         <source>Create New &amp;Crate</source>
         <translation>Maak nieuwe &amp;krat</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1144"/>
+        <location filename="../../src/mixxx.cpp" line="1139"/>
         <source>Create a new crate</source>
-        <translation>Een nieuwe crate aanmaken</translation>
+        <translation>Een nieuwe krat maken</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1149"/>
+        <location filename="../../src/mixxx.cpp" line="1144"/>
         <source>Ctrl+Shift+N</source>
         <translation>Ctrl+Shift+N</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1156"/>
+        <location filename="../../src/mixxx.cpp" line="1151"/>
         <source>&amp;Full Screen</source>
         <translation>&amp;Volledig scherm</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1157"/>
+        <location filename="../../src/mixxx.cpp" line="1152"/>
         <source>Display Mixxx using the full screen</source>
         <translation>Geef Mixxx weer in volledig scherm</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1160"/>
+        <location filename="../../src/mixxx.cpp" line="1155"/>
         <source>Ctrl+Shift+F</source>
         <translation>Ctrl+Shift+F</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1162"/>
+        <location filename="../../src/mixxx.cpp" line="1157"/>
         <source>F11</source>
         <translation>F11</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1178"/>
+        <location filename="../../src/mixxx.cpp" line="1173"/>
         <source>Enable &amp;Keyboard Shortcuts</source>
         <translation>Activeer &amp;sneltoetsen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1179"/>
+        <location filename="../../src/mixxx.cpp" line="1174"/>
         <source>Toggles keyboard shortcuts on or off</source>
         <translation>Schakelt sneltoetsen aan of uit</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1186"/>
+        <location filename="../../src/mixxx.cpp" line="1181"/>
         <source>Ctrl+`</source>
         <translation>Ctrl+`</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1195"/>
+        <location filename="../../src/mixxx.cpp" line="1190"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Voorkeuren</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1196"/>
+        <location filename="../../src/mixxx.cpp" line="1191"/>
         <source>Change Mixxx settings (e.g. playback, MIDI, controls)</source>
         <translation>Wijzig instellingen Mixxx (bv. afspelen, MIDI, bedieningen)</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1202"/>
+        <location filename="../../src/mixxx.cpp" line="1197"/>
         <source>Ctrl+,</source>
         <translation>Ctrl+,</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1207"/>
+        <location filename="../../src/mixxx.cpp" line="1202"/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1215"/>
+        <location filename="../../src/mixxx.cpp" line="1212"/>
         <source>&amp;About</source>
         <translation>&amp;Over</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1216"/>
+        <location filename="../../src/mixxx.cpp" line="1213"/>
         <source>About the application</source>
         <translation>Over het programma</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1223"/>
+        <location filename="../../src/mixxx.cpp" line="1220"/>
         <source>&amp;Community Support</source>
-        <translation>&amp;Community Ondersteuning</translation>
+        <translation>Ondersteuning &amp;gemeenschap</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1224"/>
+        <location filename="../../src/mixxx.cpp" line="1221"/>
         <source>Get help with Mixxx</source>
         <translation>Zoek hulp bij Mixxx</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1230"/>
+        <location filename="../../src/mixxx.cpp" line="1227"/>
         <source>&amp;User Manual</source>
-        <translation>&amp;Gebruikers Handleiding</translation>
+        <translation>&amp;Gebruikershandleiding</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1231"/>
+        <location filename="../../src/mixxx.cpp" line="1228"/>
         <source>Read the Mixxx user manual.</source>
-        <translation>Lees de Mixxx gebruikers handleiding</translation>
+        <translation>Lees de Mixxx-gebruikershandleiding</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1237"/>
+        <location filename="../../src/mixxx.cpp" line="1234"/>
+        <source>&amp;Keyboard Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/mixxx.cpp" line="1235"/>
+        <source>Speed up your workflow with keyboard shortcuts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/mixxx.cpp" line="1241"/>
         <source>Send Us &amp;Feedback</source>
-        <translation>Stuur ons &amp;Feedback</translation>
+        <translation>Stuur ons uw &amp;commentaar</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1238"/>
+        <location filename="../../src/mixxx.cpp" line="1242"/>
         <source>Send feedback to the Mixxx team.</source>
-        <translation>Stuur feedback naar het Mixxx team.</translation>
+        <translation>Stuur commentaar naar het Mixxx-team.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1244"/>
+        <location filename="../../src/mixxx.cpp" line="1248"/>
         <source>&amp;Translate This Application</source>
-        <translation>&amp;Dit programma vertalen</translation>
+        <translation>Dit programma &amp;vertalen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1245"/>
+        <location filename="../../src/mixxx.cpp" line="1249"/>
         <source>Help translate this application into your language.</source>
         <translation>Help om deze applicatie in jouw taal te vertalen.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1252"/>
+        <location filename="../../src/mixxx.cpp" line="1256"/>
         <source>Use timecoded vinyls on external turntables to control Mixxx</source>
-        <translation>Gebruik timecoded vinyls van externe draaitafels om Mixxx te besturen</translation>
+        <translation>Gebruik tijdgecodeerde vinyl op externe draaitafels om Mixxx te bedienen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1264"/>
+        <location filename="../../src/mixxx.cpp" line="1268"/>
         <source>Enable Vinyl Control &amp;%1</source>
         <translation>Activeer vinylbediening &amp;%1</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1273"/>
+        <location filename="../../src/mixxx.cpp" line="1277"/>
         <source>Ctrl+t</source>
         <translation>Ctrl+t</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1276"/>
+        <location filename="../../src/mixxx.cpp" line="1280"/>
         <source>Ctrl+y</source>
         <translation>Ctrl+y</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1279"/>
+        <location filename="../../src/mixxx.cpp" line="1283"/>
         <source>Ctrl+u</source>
         <translation>Ctrl+u</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1282"/>
+        <location filename="../../src/mixxx.cpp" line="1286"/>
         <source>Ctrl+i</source>
         <translation>Ctrl+i</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1312"/>
+        <location filename="../../src/mixxx.cpp" line="1316"/>
         <source>Enable Live &amp;Broadcasting</source>
         <translation>Activeer live &amp;uitzending</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1313"/>
+        <location filename="../../src/mixxx.cpp" line="1317"/>
         <source>Stream your mixes to a shoutcast or icecast server</source>
-        <translation>Stream je mixen naar een shoutcast of icecast server</translation>
+        <translation>Stream je mixen naar een Shoutcast- of Icecast-server</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1318"/>
+        <location filename="../../src/mixxx.cpp" line="1322"/>
         <source>Ctrl+L</source>
         <translation>Ctrl+L</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1329"/>
+        <location filename="../../src/mixxx.cpp" line="1333"/>
         <source>May not be supported on all skins.</source>
-        <translation>Wordt mogelijk niet ondersteund in alle stijlen.</translation>
+        <translation>Wordt mogelijk niet in alle thema&apos;s ondersteund.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1330"/>
+        <location filename="../../src/mixxx.cpp" line="1334"/>
         <source>Show Samplers</source>
         <translation>Toon samplers</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1331"/>
+        <location filename="../../src/mixxx.cpp" line="1335"/>
         <source>Show the sample deck section of the Mixxx interface.</source>
         <translation>Toon de sectie met sample-spelers van de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1338"/>
+        <location filename="../../src/mixxx.cpp" line="1342"/>
         <source>Ctrl+1</source>
         <comment>Menubar|View|Show Samplers</comment>
         <translation>Ctrl+1</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1344"/>
+        <location filename="../../src/mixxx.cpp" line="1348"/>
         <source>Show Vinyl Control Section</source>
-        <translation>Toon Vinyl Controle Sectie</translation>
+        <translation>Toon vinylsectie</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1345"/>
+        <location filename="../../src/mixxx.cpp" line="1349"/>
         <source>Show the vinyl control section of the Mixxx interface.</source>
-        <translation>Toon de sectie voor vinylbediening van de Mixxx-interface.</translation>
+        <translation>Toon de vinylsectie van de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1353"/>
+        <location filename="../../src/mixxx.cpp" line="1357"/>
         <source>Ctrl+3</source>
         <comment>Menubar|View|Show Vinyl Control Section</comment>
         <translation>Ctrl+3</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1360"/>
+        <location filename="../../src/mixxx.cpp" line="1364"/>
         <source>Show Microphone Section</source>
-        <translation>Toon Microfoon Sectie</translation>
+        <translation>Toon microfoonsectie</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1361"/>
+        <location filename="../../src/mixxx.cpp" line="1365"/>
         <source>Show the microphone section of the Mixxx interface.</source>
         <translation>Toon de microfoonsectie van de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1368"/>
+        <location filename="../../src/mixxx.cpp" line="1372"/>
         <source>Ctrl+2</source>
         <comment>Menubar|View|Show Microphone Section</comment>
         <translation>Ctrl+2</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1374"/>
+        <location filename="../../src/mixxx.cpp" line="1378"/>
         <source>Show Preview Deck</source>
-        <translation>Toon voorbeluisteringsspeler</translation>
+        <translation>Toon voorbeeldspeler</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1375"/>
+        <location filename="../../src/mixxx.cpp" line="1379"/>
         <source>Show the preview deck in the Mixxx interface.</source>
-        <translation>Toon de voorbeluisteringsspeler in de Mixxx-interface.</translation>
+        <translation>Toon de voorbeeldspeler in de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1382"/>
+        <location filename="../../src/mixxx.cpp" line="1386"/>
         <source>Ctrl+4</source>
         <comment>Menubar|View|Show Preview Deck</comment>
         <translation>Ctrl+4</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1388"/>
+        <location filename="../../src/mixxx.cpp" line="1392"/>
         <source>Show Effect Rack</source>
-        <translation>Toon effectenrek</translation>
+        <translation>Toon effectensectie</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1389"/>
+        <location filename="../../src/mixxx.cpp" line="1393"/>
         <source>Show the effect rack in the Mixxx interface.</source>
-        <translation>Toon het effectenrek in de Mixxx-interface.</translation>
+        <translation>Toon de effectensectie in de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1396"/>
+        <location filename="../../src/mixxx.cpp" line="1400"/>
         <source>Ctrl+5</source>
         <comment>Menubar|View|Show Effect Rack</comment>
         <translation>Ctrl+5</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1402"/>
+        <location filename="../../src/mixxx.cpp" line="1406"/>
         <source>Show Cover Art</source>
         <translation>Toon hoes</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1403"/>
+        <location filename="../../src/mixxx.cpp" line="1407"/>
         <source>Show cover art in the Mixxx interface.</source>
         <translation>Toon hoes in de Mixxx-interface.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1416"/>
+        <location filename="../../src/mixxx.cpp" line="1420"/>
         <source>Maximize Library</source>
-        <translation type="unfinished"/>
+        <translation>Maximaliseer bibliotheek</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1417"/>
+        <location filename="../../src/mixxx.cpp" line="1421"/>
         <source>Maximize the track library to take up all the available screen space.</source>
-        <translation type="unfinished"/>
+        <translation>Maximaliseer de track-bibliotheek om alle beschikbare schermruimte in gebruik te nemen.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1424"/>
-        <source>Space</source>
-        <comment>Menubar|View|MAximize Library</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/mixxx.cpp" line="1430"/>
+        <location filename="../../src/mixxx.cpp" line="1434"/>
         <source>&amp;Record Mix</source>
         <translation>&amp;Mix opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1431"/>
+        <location filename="../../src/mixxx.cpp" line="1435"/>
         <source>Record your mix to a file</source>
         <translation>Neem jouw mix op naar een bestand</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1436"/>
+        <location filename="../../src/mixxx.cpp" line="1440"/>
         <source>Ctrl+R</source>
         <translation>Ctrl+R</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1444"/>
+        <location filename="../../src/mixxx.cpp" line="1448"/>
         <source>&amp;Reload Skin</source>
-        <translation>&amp;Herlaad stijl</translation>
+        <translation>&amp;Herlaad thema</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1445"/>
+        <location filename="../../src/mixxx.cpp" line="1449"/>
         <source>Reload the skin</source>
-        <translation>Herlaad de stijl</translation>
+        <translation>Herlaad het thema</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1450"/>
+        <location filename="../../src/mixxx.cpp" line="1454"/>
         <source>Ctrl+Shift+R</source>
         <translation>Ctrl+Shift+R</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1489"/>
+        <location filename="../../src/mixxx.cpp" line="1493"/>
         <source>Stats: &amp;Base Bucket</source>
         <translation>Statistieken: &amp;Basisemmer</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1554"/>
+        <location filename="../../src/mixxx.cpp" line="1574"/>
         <source>&amp;Developer</source>
         <translation>&amp;Ontwikkelaar</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1458"/>
+        <location filename="../../src/mixxx.cpp" line="1462"/>
         <source>Opens the developer tools dialog</source>
         <translation>Opent de dialoog voor ontwikkelwerktuigen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1463"/>
+        <location filename="../../src/mixxx.cpp" line="1467"/>
         <source>Ctrl+Shift+T</source>
         <translation>Ctrl+Shift+T</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1510"/>
+        <location filename="../../src/mixxx.cpp" line="1514"/>
         <source>Enables the debugger during skin parsing</source>
-        <translation>Activeert de debugger tijdens stijlontleding</translation>
+        <translation>Activeert de debugger tijdens themaontleding</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1518"/>
+        <location filename="../../src/mixxx.cpp" line="1522"/>
         <source>Ctrl+Shift+D</source>
         <translation>Ctrl+Shift+D</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1410"/>
+        <location filename="../../src/mixxx.cpp" line="1414"/>
         <source>Ctrl+6</source>
         <comment>Menubar|View|Show Cover Art</comment>
         <translation>Ctrl+6</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1457"/>
+        <location filename="../../src/mixxx.cpp" line="1428"/>
+        <source>Space</source>
+        <comment>Menubar|View|Maximize Library</comment>
+        <translation>Ruimte</translation>
+    </message>
+    <message>
+        <location filename="../../src/mixxx.cpp" line="1461"/>
         <source>Developer &amp;Tools</source>
         <translation>Ontwikkel&amp;werktuigen</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1472"/>
+        <location filename="../../src/mixxx.cpp" line="1476"/>
         <source>Stats: &amp;Experiment Bucket</source>
         <translation>Statistieken: &amp;Experimentemmer</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1473"/>
+        <location filename="../../src/mixxx.cpp" line="1477"/>
         <source>Enables experiment mode. Collects stats in the EXPERIMENT tracking bucket.</source>
         <translation>Activeert experimenteermodus. Verzamelt statistieken in de EXPERIMENT-traceeremmer.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1479"/>
+        <location filename="../../src/mixxx.cpp" line="1483"/>
         <source>Ctrl+Shift+E</source>
         <translation>Ctrl+Shift+E</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1490"/>
+        <location filename="../../src/mixxx.cpp" line="1494"/>
         <source>Enables base mode. Collects stats in the BASE tracking bucket.</source>
         <translation>Activeert basismodus. Verzamelt statistieken in de BASIS-traceeremmer.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1496"/>
+        <location filename="../../src/mixxx.cpp" line="1500"/>
         <source>Ctrl+Shift+B</source>
         <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1509"/>
+        <location filename="../../src/mixxx.cpp" line="1513"/>
         <source>Deb&amp;ugger Enabled</source>
         <translation>Deb&amp;ugger ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1549"/>
+        <location filename="../../src/mixxx.cpp" line="1569"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1550"/>
+        <location filename="../../src/mixxx.cpp" line="1570"/>
         <source>&amp;Options</source>
         <translation>&amp;Opties</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1551"/>
+        <location filename="../../src/mixxx.cpp" line="1571"/>
         <source>&amp;Library</source>
         <translation>&amp;Bibliotheek</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1552"/>
+        <location filename="../../src/mixxx.cpp" line="1572"/>
         <source>&amp;View</source>
         <translation>&amp;Weergave</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1553"/>
+        <location filename="../../src/mixxx.cpp" line="1573"/>
         <source>&amp;Help</source>
         <translation>&amp;Hulp</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1566"/>
+        <location filename="../../src/mixxx.cpp" line="1586"/>
         <source>&amp;Vinyl Control</source>
         <translation>&amp;Vinylbediening</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1634"/>
+        <location filename="../../src/mixxx.cpp" line="1655"/>
         <source>Load track to Deck %1</source>
         <translation>Laad nummer in speler %1</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1635"/>
+        <location filename="../../src/mixxx.cpp" line="1656"/>
         <source>Deck %1 is currently playing a track.</source>
         <translation>Speler %1 speelt momenteel een track af.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1637"/>
+        <location filename="../../src/mixxx.cpp" line="1658"/>
         <source>Are you sure you want to load a new track?</source>
         <translation>Weet je zeker dat je een nieuwe track wil laden?</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1828"/>
+        <location filename="../../src/mixxx.cpp" line="1849"/>
         <source>There is no input device selected for this vinyl control.
 Please select an input device in the sound hardware preferences first.</source>
         <translation>Er is geen invoerapparaat geselecteerd voor deze vinylbediening.
 Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1862"/>
+        <location filename="../../src/mixxx.cpp" line="1883"/>
         <source>There is no input device selected for this passthrough control.
 Please select an input device in the sound hardware preferences first.</source>
         <translation>Er is geen invoerapparaat geselecteerd voor dit doorvoerapparaat.
 Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1891"/>
+        <location filename="../../src/mixxx.cpp" line="1912"/>
         <source>There is no input device selected for this auxiliary input.
 Please select an input device in the sound hardware preferences first.</source>
         <translation>Er is geen invoerapparaat geselecteerd voor deze aux-ingang.
 Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="1960"/>
+        <location filename="../../src/mixxx.cpp" line="1981"/>
         <source>There is no input device selected for this microphone.
 Please select an input device in the sound hardware preferences first.</source>
         <translation>Er is geen invoerapparaat geselecteerd voor deze microfoon.
 Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2069"/>
+        <location filename="../../src/mixxx.cpp" line="2096"/>
         <source>Error in skin file</source>
-        <translation>Fout in stijl bestand</translation>
+        <translation>Fout in themabestand</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2070"/>
+        <location filename="../../src/mixxx.cpp" line="2097"/>
         <source>The selected skin cannot be loaded.</source>
-        <translation>De geselecteerde stijl kan niet geladen worden.</translation>
+        <translation>Het geselecteerde thema kan niet geladen worden.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2196"/>
+        <location filename="../../src/mixxx.cpp" line="2223"/>
         <source>OpenGL Direct Rendering</source>
         <translation>OpenGL Direct Rendering</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2197"/>
+        <location filename="../../src/mixxx.cpp" line="2224"/>
         <source>Direct rendering is not enabled on your machine.&lt;br&gt;&lt;br&gt;This means that the waveform displays will be very&lt;br&gt;&lt;b&gt;slow and may tax your CPU heavily&lt;/b&gt;. Either update your&lt;br&gt;configuration to enable direct rendering, or disable&lt;br&gt;the waveform displays in the Mixxx preferences by selecting&lt;br&gt;&quot;Empty&quot; as the waveform display in the &apos;Interface&apos; section.&lt;br&gt;&lt;br&gt;NOTE: If you use NVIDIA hardware,&lt;br&gt;direct rendering may not be present, but you should&lt;br&gt;not experience degraded performance.</source>
-        <translation>Direct renderen is niet ingeschakeld op je computer.&lt;br&gt;&lt;br&gt;Dat betekent dat de golfvormweergaven zeer traag zullen zijn&lt;br&gt;en mogelijk je &lt;b&gt;CPU zwaar belasten&lt;/b&gt;.&lt;br&gt;Werk je configuratie bij om directe rendering mogelijk te maken&lt;br&gt;of schakel de golfvormweergaven uit in de Mixxx-voorkeuren&lt;br&gt;door &quot;Leeg&quot; te selecteren als golfvormweergave in de sectie &quot;Interface&quot;.&lt;br&gt;&lt;br&gt;Opmerking: als je NVIDIA-apparatuur gebruikt, &lt;br&gt;dan is directe rendering mogelijk niet aanwezig kan zijn,&lt;br&gt;maar zou je geen verminderde prestaties mogen ervaren.</translation>
+        <translation>Direct vormgeven is niet ingeschakeld op je computer.&lt;br&gt;&lt;br&gt;Dat betekent dat de golfvormweergaven zeer traag zullen zijn&lt;br&gt;en mogelijk je &lt;b&gt;CPU zwaar belasten&lt;/b&gt;.&lt;br&gt;Werk je configuratie bij om directe rendering mogelijk te maken&lt;br&gt;of schakel de golfvormweergaven uit in de Mixxx-voorkeuren&lt;br&gt;door &quot;Leeg&quot; te selecteren als golfvormweergave in de sectie &quot;Interface&quot;.&lt;br&gt;&lt;br&gt;Opmerking: als je NVIDIA-apparatuur gebruikt, &lt;br&gt;dan is directe rendering mogelijk niet aanwezig kan zijn,&lt;br&gt;maar zou je geen verminderde prestaties mogen ervaren.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2231"/>
-        <location filename="../../src/mixxx.cpp" line="2239"/>
-        <location filename="../../src/mixxx.cpp" line="2248"/>
+        <location filename="../../src/mixxx.cpp" line="2258"/>
+        <location filename="../../src/mixxx.cpp" line="2266"/>
+        <location filename="../../src/mixxx.cpp" line="2275"/>
         <source>Confirm Exit</source>
-        <translation>Afsluiten bevestigen</translation>
+        <translation>Bevestig afsluiten</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2232"/>
+        <location filename="../../src/mixxx.cpp" line="2259"/>
         <source>A deck is currently playing. Exit Mixxx?</source>
         <translation>Er is momenteel een speler actief. Mixxx Afsluiten?</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2240"/>
+        <location filename="../../src/mixxx.cpp" line="2267"/>
         <source>A sampler is currently playing. Exit Mixxx?</source>
         <translation>Er speelt momenteel een sampler. Mixxx toch afsluiten?</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2249"/>
+        <location filename="../../src/mixxx.cpp" line="2276"/>
         <source>The preferences window is still open.</source>
         <translation>Het venster &quot;Voorkeuren&quot; staat nog open.</translation>
     </message>
     <message>
-        <location filename="../../src/mixxx.cpp" line="2250"/>
+        <location filename="../../src/mixxx.cpp" line="2277"/>
         <source>Discard any changes and exit Mixxx?</source>
         <translation>Alle wijzigingen annuleren en Mixxx afsluiten?</translation>
     </message>
@@ -7512,13 +7500,13 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
     <message>
         <location filename="../../src/library/parsercsv.cpp" line="130"/>
         <source>Playlist Export Failed</source>
-        <translation>Afspeellijst Exporteren Mislukt</translation>
+        <translation>Exporteren afspeellijst mislukt</translation>
     </message>
     <message>
         <location filename="../../src/library/parsercsv.cpp" line="131"/>
         <location filename="../../src/library/parsercsv.cpp" line="203"/>
         <source>Could not create file</source>
-        <translation>Kon bestand niet maken</translation>
+        <translation>Kon bestand niet aanmaken</translation>
     </message>
     <message>
         <location filename="../../src/library/parsercsv.cpp" line="202"/>
@@ -7532,7 +7520,7 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
         <location filename="../../src/library/parserm3u.cpp" line="164"/>
         <location filename="../../src/library/parserm3u.cpp" line="175"/>
         <source>Playlist Export Failed</source>
-        <translation>Afspeellijst Exporteren Mislukt</translation>
+        <translation>Exporteren afspeellijst mislukt</translation>
     </message>
     <message>
         <location filename="../../src/library/parserm3u.cpp" line="165"/>
@@ -7551,7 +7539,7 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
     <message>
         <location filename="../../src/library/parserm3u.cpp" line="176"/>
         <source>Could not create file</source>
-        <translation>Kon bestand niet maken</translation>
+        <translation>Kon bestand niet aanmaken</translation>
     </message>
 </context>
 <context>
@@ -7559,12 +7547,12 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
     <message>
         <location filename="../../src/library/parserpls.cpp" line="155"/>
         <source>Playlist Export Failed</source>
-        <translation>Afspeellijst Exporteren Mislukt</translation>
+        <translation>Exporteren afspeellijst mislukt</translation>
     </message>
     <message>
         <location filename="../../src/library/parserpls.cpp" line="156"/>
         <source>Could not create file</source>
-        <translation>Kon bestand niet maken</translation>
+        <translation>Kon bestand niet aanmaken</translation>
     </message>
 </context>
 <context>
@@ -7572,11 +7560,11 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
     <message>
         <location filename="../../src/library/playlistfeature.cpp" line="64"/>
         <source>Lock</source>
-        <translation>Vergrendel</translation>
+        <translation>Vergrendelen</translation>
     </message>
     <message>
         <location filename="../../src/library/playlistfeature.cpp" line="39"/>
-        <location filename="../../src/library/playlistfeature.cpp" line="206"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="216"/>
         <source>Playlists</source>
         <translation>Afspeellijsten</translation>
     </message>
@@ -7586,27 +7574,27 @@ Selecteer eerst een invoerapparaat in de voorkeuren voor geluidsapparatuur.</tra
         <translation>Ontgrendelen</translation>
     </message>
     <message>
-        <location filename="../../src/library/playlistfeature.cpp" line="207"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="217"/>
         <source>Playlists are ordered lists of songs that allow you to plan your DJ sets.</source>
         <translation>Afspeellijsten zijn gesorteerde lijsten van nummers die je toelaten om je DJ-sets te plannen.</translation>
     </message>
     <message>
-        <location filename="../../src/library/playlistfeature.cpp" line="208"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="218"/>
         <source>Some DJs construct playlists before they perform live, but others prefer to build them on-the-fly.</source>
         <translation>Sommige DJ&apos;s stellen afspeellijsten samen vóór hun optreden, anderen verkiezen om ze in de vlucht op te bouwen.</translation>
     </message>
     <message>
-        <location filename="../../src/library/playlistfeature.cpp" line="209"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="219"/>
         <source>When using a playlist during a live DJ set, remember to always pay close attention to how your audience reacts to the music you&apos;ve chosen to play.</source>
         <translation>Wanneer je een afspeellijst gebruikt tijdens een live DJ-set, vergeet dan niet om altijd aandacht te schenken aan hoe je publiek reageert op de muziek die je hebt gekozen om te spelen.</translation>
     </message>
     <message>
-        <location filename="../../src/library/playlistfeature.cpp" line="210"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="220"/>
         <source>It may be necessary to skip some songs in your prepared playlist or add some different songs in order to maintain the energy of your audience.</source>
         <translation>Het kan nodig zijn om sommige nummers over te slaan in je voorbereide afspeellijst of om tracks toe te voegen teneinde de energie van je publiek te behouden.</translation>
     </message>
     <message>
-        <location filename="../../src/library/playlistfeature.cpp" line="211"/>
+        <location filename="../../src/library/playlistfeature.cpp" line="221"/>
         <source>Create New Playlist</source>
         <translation>Maak een nieuwe afspeellijst</translation>
     </message>
@@ -7638,7 +7626,7 @@ Wil je je bibliotheek nu scannen voor hoezen?</translation>
     <message>
         <location filename="../../src/upgrade.cpp" line="408"/>
         <source>Upgrading Mixxx from v1.9.x/1.10.x.</source>
-        <translation>Update Mixxx van v1.9.x/1.10.x</translation>
+        <translation>Mixxx aan het actualiseren van versie 1.9.x naar 1.10.x</translation>
     </message>
     <message>
         <location filename="../../src/upgrade.cpp" line="410"/>
@@ -7783,7 +7771,7 @@ Wil je je bibliotheek nu scannen voor hoezen?</translation>
     <message>
         <location filename="../../src/soundmanagerutil.cpp" line="184"/>
         <source>Master</source>
-        <translation>Master</translation>
+        <translation>Hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/soundmanagerutil.cpp" line="186"/>
@@ -7833,13 +7821,13 @@ Wil je je bibliotheek nu scannen voor hoezen?</translation>
     <message>
         <location filename="../../src/soundmanagerutil.cpp" line="211"/>
         <source>Unknown path type %1</source>
-        <translation>Onbekend pad type %1</translation>
+        <translation>Onbekend padtype %1</translation>
     </message>
     <message>
         <location filename="../../src/encoder/encodermp3.cpp" line="105"/>
         <location filename="../../src/encoder/encodermp3.cpp" line="192"/>
         <source>Encoder</source>
-        <translation>Encoder</translation>
+        <translation>Codeereenheid</translation>
     </message>
     <message>
         <location filename="../../src/encoder/encodermp3.cpp" line="106"/>
@@ -7849,7 +7837,7 @@ Wil je je bibliotheek nu scannen voor hoezen?</translation>
     <message>
         <location filename="../../src/encoder/encodermp3.cpp" line="193"/>
         <source>&lt;html&gt;Mixxx has detected that you use a modified version of libmp3lame. See &lt;a href=&apos;http://mixxx.org/wiki/doku.php/internet_broadcasting&apos;&gt;Mixxx Wiki&lt;/a&gt; for more information.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;Mixxx heeft gedetecteerd dat je gebruik maakt van een aangepaste versie van libmp3lame. Zie de &lt;a href=&apos;http://mixxx.org/wiki/doku.php/internet_broadcasting&apos;&gt;Mixxx Wiki&lt;/a&gt; voor meer informatie.&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;Mixxx heeft gedetecteerd dat je gebruik maakt van een gewijzigde versie van libmp3lame. Zie de &lt;a href=&apos;http://mixxx.org/wiki/doku.php/internet_broadcasting&apos;&gt;Mixxx Wiki&lt;/a&gt; voor meer informatie.&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/util/sandbox.cpp" line="87"/>
@@ -8016,7 +8004,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/effects/native/reverbeffect.cpp" line="16"/>
         <source>Reverb</source>
-        <translation>&apos;Reverb&apos; effect</translation>
+        <translation>Galm</translation>
     </message>
     <message>
         <location filename="../../src/effects/native/reverbeffect.cpp" line="28"/>
@@ -8241,7 +8229,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/library/recording/recordingfeature.cpp" line="31"/>
         <source>Recordings</source>
-        <translation>Opnames</translation>
+        <translation>Opnamen</translation>
     </message>
 </context>
 <context>
@@ -8267,47 +8255,47 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/samplerbank.cpp" line="34"/>
         <source>Save Sampler Bank</source>
-        <translation>Sampler Bank Opslaan</translation>
+        <translation>Samplerreeks opslaan</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="32"/>
         <location filename="../../src/samplerbank.cpp" line="36"/>
         <location filename="../../src/samplerbank.cpp" line="102"/>
         <source>Mixxx Sampler Banks (*.xml)</source>
-        <translation>Mixxx sampler-bestand (*.xml)</translation>
+        <translation>Mixxx samplerreeks (*.xml)</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="59"/>
         <source>Error Saving Sampler Bank</source>
-        <translation>Fout bij Sampler Bank opslaan</translation>
+        <translation>Fout bij opslaan samplerreeks</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="60"/>
         <source>Could not write the sampler bank to &apos;%1&apos;.</source>
-        <translation>Kon sampler bank niet wegschrijven naar &apos;%1&apos;.</translation>
+        <translation>Kon samplerreeks niet wegschrijven naar &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="100"/>
         <source>Load Sampler Bank</source>
-        <translation>Sampler Bank Laden</translation>
+        <translation>Samplerreeks laden</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="115"/>
         <location filename="../../src/samplerbank.cpp" line="125"/>
         <location filename="../../src/samplerbank.cpp" line="134"/>
         <source>Error Reading Sampler Bank</source>
-        <translation>Fout bij Sampler Bank lezen</translation>
+        <translation>Fout bij lezen samplerreeks</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="116"/>
         <source>Could not open the sampler bank file &apos;%1&apos;.</source>
-        <translation>Kon sampler bank bestand &quot;%1&quot; niet openen.</translation>
+        <translation>Kon samplerbestand &apos;%1&apos; niet openen.</translation>
     </message>
     <message>
         <location filename="../../src/samplerbank.cpp" line="126"/>
         <location filename="../../src/samplerbank.cpp" line="135"/>
         <source>Could not read the sampler bank file &apos;%1&apos;.</source>
-        <translation>Kon geen sampler bank bestand &apos;%1&apos; lezen.</translation>
+        <translation>Kon samplerbestand &apos;%1&apos; niet lezen.</translation>
     </message>
 </context>
 <context>
@@ -8324,7 +8312,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     </message>
     <message>
         <location filename="../../src/library/setlogfeature.cpp" line="49"/>
-        <location filename="../../src/library/setlogfeature.cpp" line="298"/>
+        <location filename="../../src/library/setlogfeature.cpp" line="310"/>
         <source>History</source>
         <translation>Geschiedenis</translation>
     </message>
@@ -8336,25 +8324,25 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/library/setlogfeature.cpp" line="87"/>
         <source>Lock</source>
-        <translation>Vergrendel</translation>
+        <translation>Vergrendelen</translation>
     </message>
     <message>
-        <location filename="../../src/library/setlogfeature.cpp" line="299"/>
+        <location filename="../../src/library/setlogfeature.cpp" line="311"/>
         <source>The history section automatically keeps a list of tracks you play in your DJ sets.</source>
         <translation>De historieksectie houdt automatisch een lijst bij met tracks die je in je DJ-sets speelt.</translation>
     </message>
     <message>
-        <location filename="../../src/library/setlogfeature.cpp" line="300"/>
+        <location filename="../../src/library/setlogfeature.cpp" line="312"/>
         <source>This is handy for remembering what worked in your DJ sets, posting set-lists, or reporting your plays to licensing organizations.</source>
         <translation>Dit is handig om te onthouden wat werkte in je DJ-sets, om te publiceren als set-lijst of om te rapporteren aan auteursrechtenorganisaties.</translation>
     </message>
     <message>
-        <location filename="../../src/library/setlogfeature.cpp" line="301"/>
+        <location filename="../../src/library/setlogfeature.cpp" line="313"/>
         <source>Every time you start Mixxx, a new history section is created. You can export it as a playlist in various formats or play it again with Auto DJ.</source>
         <translation>Telkens wanneer je Mixxx start, wordt een nieuwe historieksectie gemaakt. Je kunt die exporteren als een afspeellijst in verscheidene formaten of weer spelen met AutoDJ.</translation>
     </message>
     <message>
-        <location filename="../../src/library/setlogfeature.cpp" line="302"/>
+        <location filename="../../src/library/setlogfeature.cpp" line="314"/>
         <source>You can join the current history session with a previous one by right-clicking and selecting &quot;Join with previous&quot;.</source>
         <translation>Je kunt de huidige historieksessie samenvoegen met een vorige door rechts te klikken en te kiezen voor &quot;Samenvoegen met vorige&quot;.</translation>
     </message>
@@ -8440,7 +8428,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/musicbrainz/tagfetcher.cpp" line="103"/>
         <source>Downloading Metadata</source>
-        <translation>Metadata aan het ophalen</translation>
+        <translation>Metagegevens aan het ophalen</translation>
     </message>
 </context>
 <context>
@@ -8453,17 +8441,17 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="30"/>
         <source>Left-click</source>
-        <translation>Links klikken</translation>
+        <translation>Linkerklik</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="31"/>
         <source>Right-click</source>
-        <translation>Rechts klikken</translation>
+        <translation>Rechterklik</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="32"/>
         <source>Scroll-wheel</source>
-        <translation>Scroll-wieltje</translation>
+        <translation>Bladerwieltje</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="35"/>
@@ -8559,12 +8547,12 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="78"/>
         <source>Master Peak Indicator</source>
-        <translation>Master-piekindicator</translation>
+        <translation>Piekindicator hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="79"/>
         <source>Indicates when the signal on the master output is clipping,</source>
-        <translation>Geeft aan wanneer het signaal op de Master-uitgang overstuurd is,</translation>
+        <translation>Geeft aan wanneer het signaal op de hoofduitgang overstuurd is,</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="83"/>
@@ -8590,12 +8578,12 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
         <location filename="../../src/skin/tooltips.cpp" line="91"/>
         <location filename="../../src/skin/tooltips.cpp" line="95"/>
         <source>Master Channel Volume Meter</source>
-        <translation>Volumemeter Master-kanaal</translation>
+        <translation>Volumemeter kanaal hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="92"/>
         <source>Shows the current master volume for the left channel.</source>
-        <translation>Toont het huidige Master-volume voor het linkerkanaal.</translation>
+        <translation>Toont het huidige hoofduitgangsvolume voor het linkerkanaal.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="99"/>
@@ -8615,17 +8603,17 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="106"/>
         <source>Adjusts the master output volume.</source>
-        <translation>Past het volume van de Master-uitgang aan.</translation>
+        <translation>Past het volume van de hoofduitgang aan.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="110"/>
         <source>Master Gain</source>
-        <translation>Master ingangsvolume</translation>
+        <translation>Versterking hoofduitgang</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="111"/>
         <source>Adjusts the master output gain.</source>
-        <translation>Past de versterking van de Master-uitgang aan.</translation>
+        <translation>Past de versterking van de hoofduitgang aan.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="115"/>
@@ -8635,7 +8623,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="116"/>
         <source>Determines the master output by fading between the left and right channels.</source>
-        <translation>Bepaalt de Master-uitvoer door tussen linker- en rechterkanaal te vervagen.</translation>
+        <translation>Bepaalt de uitvoer van de hoofduitgang door tussen linker- en rechterkanaal te vervagen.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="121"/>
@@ -8645,7 +8633,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="122"/>
         <source>Adjusts the left/right channel balance on the master output.</source>
-        <translation>Past de links/rechts kanaalbalans aan op de Master-uitgang.</translation>
+        <translation>Past de links/rechts kanaalbalans aan op de hoofduitgang.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="127"/>
@@ -8685,7 +8673,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="143"/>
         <source>If activated, the master signal plays in the right channel, while the cueing signal plays in the left channel.</source>
-        <translation>Wanneer ingeschakeld, speelt het Master-signaal in het rechterkanaal, terwijl voorbeluistering in het linker kanaal speelt.</translation>
+        <translation>Wanneer ingeschakeld, speelt het signaal van de hoofduitgang in het rechterkanaal, terwijl voorbeluistering in het linker kanaal speelt.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="145"/>
@@ -8715,7 +8703,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="156"/>
         <source>Show/hide the Microphone section.</source>
-        <translation>Toon/Verberg de Microfoon sectie.</translation>
+        <translation>Toon/verberg de microfoonsectie.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="159"/>
@@ -8735,17 +8723,17 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="164"/>
         <source>Show/hide the Vinyl Control section.</source>
-        <translation>Toon/verberg de sectie voor vinylbediening.</translation>
+        <translation>Toon/verberg de vinylsectie.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="168"/>
         <source>Preview Deck</source>
-        <translation>Voorbeluisteringsspeler</translation>
+        <translation>Voorbeeldspeler</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="169"/>
         <source>Show/hide the Preview deck.</source>
-        <translation>Toon/verberg de voorbeluisteringsspeler.</translation>
+        <translation>Toon/verberg de voorbeeldspeler.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="172"/>
@@ -8816,12 +8804,12 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="207"/>
         <source>Hold-to-talk or short click for latching to</source>
-        <translation>Vasthouden om te praten of kort klikken om vast te zetten op</translation>
+        <translation>Vasthouden voor praten of kort klikken voor vastzetten om</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="208"/>
         <source>mix microphone input into the master output.</source>
-        <translation>de mix microfoon invoer in de Master-uitgang.</translation>
+        <translation>de microfooninvoer in de hoofduitgang te mixen.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="212"/>
@@ -8951,7 +8939,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="266"/>
         <source>Displays the tempo of the loaded track in BPM (beats per minute).</source>
-        <translation>Toont het tempo van de geladen track in BPM (Beats Per Minute).</translation>
+        <translation>Toont het tempo van de geladen track in BPM (Beats Per Minuut).</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="268"/>
@@ -8962,7 +8950,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
         <location filename="../../src/skin/tooltips.cpp" line="273"/>
         <source>Key</source>
         <extracomment>The musical key of a track</extracomment>
-        <translation>Productsleutel.</translation>
+        <translation>Toonaard</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="277"/>
@@ -9189,22 +9177,22 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="184"/>
         <source>Show Effect Rack</source>
-        <translation>Toon effectenrek</translation>
+        <translation>Toon effectensectie</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="185"/>
         <source>Show or hide the effect rack.</source>
-        <translation>Toon/verberg het effectenrek.</translation>
+        <translation>Toon/verberg de effectensectie.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="188"/>
         <source>Maximize Library</source>
-        <translation type="unfinished"/>
+        <translation>Maximaliseer bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="189"/>
         <source>Maximize the track library to take up all the available screen space.</source>
-        <translation type="unfinished"/>
+        <translation>Maximaliseer de track-bibliotheek om alle beschikbare schermruimte in gebruik te nemen.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="333"/>
@@ -9254,7 +9242,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="360"/>
         <source>Mutes the selected channel&apos;s audio in the master output.</source>
-        <translation>Dempt het geselecteerde geluidskanaal in de Master-uitvoer.</translation>
+        <translation>Dempt het geselecteerde geluidskanaal in de hoofduitgang.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="374"/>
@@ -9264,7 +9252,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="375"/>
         <source>(This skin should be updated to use Master Sync!)</source>
-        <translation>(Deze stijl moet worden geactualiseerd om Master Sync te gebruiken!)</translation>
+        <translation>(Dit thema moet worden geactualiseerd om MasterSync te gebruiken!)</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="380"/>
@@ -9284,7 +9272,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="386"/>
         <source>Enable Master Sync</source>
-        <translation>Activeer Master Sync</translation>
+        <translation>Activeer MasterSync</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="387"/>
@@ -9482,7 +9470,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="118"/>
         <source>Change the crossfader curve in Preferences -&gt; Crossfader</source>
-        <translation>Pas de curve voor de cross-fader aan in Voorkeuren -&gt; Cross-Fader</translation>
+        <translation>Pas de curve voor de cross-fader aan in Voorkeuren -&gt; Cross-fader</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="165"/>
@@ -9574,7 +9562,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="444"/>
         <source>Hotcue</source>
-        <translation>Hete cue</translation>
+        <translation>Hotcue</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="445"/>
@@ -9705,7 +9693,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="348"/>
         <source>Set cue point (Pioneer/Mixxx mode) OR preview from it (Denon mode).</source>
-        <translation>Stel cue-punt in (Pioneer-/Mixxx-modus) of speel voorbeluistering van daar (Denon-modus).</translation>
+        <translation>Stel cue-punt in (Pioneer-/Mixxx-modus) of speel voorbeeld vanaf daar (Denon-modus).</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="349"/>
@@ -9735,7 +9723,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="526"/>
         <source>Hot Cue - Track will seek to nearest previous hot cue point.</source>
-        <translation>Hot Cue - track zal tot het meest nabije hotcue-punt spoelen.</translation>
+        <translation>Hotcue - Track zal tot het meest nabije hotcue-punt spoelen.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="529"/>
@@ -9765,7 +9753,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="537"/>
         <source>Information is loaded from the track&apos;s metadata tags.</source>
-        <translation>Informatie wordt geladen vanuit de metadata-labels van de track.</translation>
+        <translation>Informatie wordt geladen vanuit de metagegevens van de track.</translation>
     </message>
     <message>
         <location filename="../../src/skin/tooltips.cpp" line="539"/>
@@ -9813,7 +9801,7 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="69"/>
         <source>Cannot open database</source>
-        <translation>Database kon niet worden geopend</translation>
+        <translation>Kan gegevensbank niet openen</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="70"/>
@@ -9821,25 +9809,25 @@ Om deze actie af te breken, druk op Annuleren in de bestandendialoog.</translati
 Mixxx requires QT with SQLite support. Please read the Qt SQL driver documentation for information on how to build it.
 
 Click OK to exit.</source>
-        <translation>Niet in staat om een ​​database verbinding te maken.
-Mixxx vereist QT met SQLite ondersteuning. Lees a.u.b. de Qt SQL-driver documentatie voor meer informatie over hoe te bouwen.
+        <translation>Niet in staat om een verbinding te maken met de gegevensbank.
+Mixxx vereist QT met SQLite-ondersteuning. Lees de documentatie voor de QT SQL-driver voor meer informatie over het opzetten.
 
 Druk op OK om af te sluiten.</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="84"/>
         <source>Click OK to exit.</source>
-        <translation>Klik op OK om te sluiten</translation>
+        <translation>Klik op OK om af te sluiten.</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="85"/>
         <source>Cannot upgrade database schema</source>
-        <translation>Kan database schema niet updaten</translation>
+        <translation>Kan schema gegevensbank niet actualiseren</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="87"/>
         <source>Unable to upgrade your database schema to version %1</source>
-        <translation>Het database schema kan niet upgegrade worden naar versie %1</translation>
+        <translation>Het schema voor de gegevensbank kan niet geactualiseerd worden naar versie %1</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="99"/>
@@ -9854,7 +9842,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="108"/>
         <source>Your mixxxdb.sqlite file may be corrupt.</source>
-        <translation>Uw mixxdb.sqlite bestand is mogelijk corrupt.</translation>
+        <translation>Uw mixxdb.sqlite-bestand is mogelijk beschadigd.</translation>
     </message>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="89"/>
@@ -9864,7 +9852,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/library/trackcollection.cpp" line="109"/>
         <source>Try renaming it and restarting Mixxx.</source>
-        <translation>Probeer de naam te veranderen en herstart daarna Mixxx.</translation>
+        <translation>Probeer de naam te veranderen en Mixxx te herstarten.</translation>
     </message>
 </context>
 <context>
@@ -9878,17 +9866,17 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/library/traktor/traktorfeature.cpp" line="155"/>
         <source>(loading) Traktor</source>
-        <translation>(laden) Traktor</translation>
+        <translation>Traktor (aan het laden)</translation>
     </message>
     <message>
         <location filename="../../src/library/traktor/traktorfeature.cpp" line="616"/>
         <source>Error Loading Traktor Library</source>
-        <translation>Fout bij het laden van Traktor Bibliotheek</translation>
+        <translation>Fout bij het laden van de Traktor-bibliotheek</translation>
     </message>
     <message>
         <location filename="../../src/library/traktor/traktorfeature.cpp" line="617"/>
         <source>There was an error loading your Traktor library. Some of your Traktor tracks or playlists may not have loaded.</source>
-        <translation>Er was een fout opgetreden tijdens het laden van uw Traktor bibliotheek. Sommige Traktor nummers of afspeellijsten zijn misschien niet ingeladen.</translation>
+        <translation>Er is een fout opgetreden bij het laden van je Traktor-bibliotheek. Sommige Traktor-tracks of -afspeellijsten zijn mogelijk niet ingeladen.</translation>
     </message>
 </context>
 <context>
@@ -9911,12 +9899,12 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/dlgabout.cpp" line="47"/>
         <source>Past Developers</source>
-        <translation>Oude ontwikkelaars:</translation>
+        <translation>Vroegere ontwikkelaars:</translation>
     </message>
     <message>
         <location filename="../../src/dlgabout.cpp" line="48"/>
         <source>Past Contributors</source>
-        <translation>Oude bijdragers:</translation>
+        <translation>Vroegere bijdragers:</translation>
     </message>
 </context>
 <context>
@@ -10020,19 +10008,19 @@ Druk op OK om af te sluiten.</translation>
 <context>
     <name>WOverview</name>
     <message>
-        <location filename="../../src/widget/woverview.cpp" line="344"/>
+        <location filename="../../src/widget/woverview.cpp" line="348"/>
         <source>Ready to play, analyzing ..</source>
         <extracomment>Text on waveform overview when file is cached from source</extracomment>
         <translation>Klaar om af te spelen, verder aan het analyseren ...</translation>
     </message>
     <message>
-        <location filename="../../src/widget/woverview.cpp" line="347"/>
+        <location filename="../../src/widget/woverview.cpp" line="351"/>
         <source>Loading track ..</source>
         <extracomment>Text on waveform overview when file is playable but no waveform is visible</extracomment>
         <translation>Track aan het laden ...</translation>
     </message>
     <message>
-        <location filename="../../src/widget/woverview.cpp" line="351"/>
+        <location filename="../../src/widget/woverview.cpp" line="355"/>
         <source>Finalizing ..</source>
         <extracomment>Text on waveform overview during finalizing of waveform analysis</extracomment>
         <translation>Aan het afwerken ...</translation>
@@ -10041,15 +10029,66 @@ Druk op OK om af te sluiten.</translation>
 <context>
     <name>WSearchLineEdit</name>
     <message>
-        <location filename="../../src/widget/wsearchlineedit.cpp" line="26"/>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="19"/>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="179"/>
+        <source>Clear input</source>
+        <comment>Clear the search bar input field</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="27"/>
         <source>Ctrl+F</source>
         <comment>Search|Focus</comment>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../src/widget/wsearchlineedit.cpp" line="174"/>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="175"/>
         <source>Search...</source>
-        <translation>Zoeken…</translation>
+        <comment>noun</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="176"/>
+        <source>Search</source>
+        <comment>noun</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="176"/>
+        <source>Enter a string to search for</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="177"/>
+        <source>Shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="178"/>
+        <source>Ctrl+F</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="178"/>
+        <source>Focus</source>
+        <comment>Give search bar input focus</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="179"/>
+        <source>Ctrl+Backspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="180"/>
+        <source>Esc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/widget/wsearchlineedit.cpp" line="180"/>
+        <source>Exit search</source>
+        <comment>Exit search bar and leave focus</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10062,12 +10101,12 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="82"/>
         <source>Add to Crate</source>
-        <translation>Toevoegen aan Crate</translation>
+        <translation>Toevoegen aan krat</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="78"/>
         <source>Load to Sampler</source>
-        <translation>Laden naar Sampler</translation>
+        <translation>Laden naar sampler</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="84"/>
@@ -10083,7 +10122,7 @@ Druk op OK om af te sluiten.</translation>
         <location filename="../../src/widget/wtracktableview.cpp" line="116"/>
         <source>ESC</source>
         <comment>Focus</comment>
-        <translation type="unfinished"/>
+        <translation>ESC</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="381"/>
@@ -10113,7 +10152,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="397"/>
         <source>Open in File Browser</source>
-        <translation>Openen in browser</translation>
+        <translation>Openen in verkenner</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="401"/>
@@ -10128,12 +10167,12 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="408"/>
         <source>Reload Metadata from File</source>
-        <translation>Laad metadata data opnieuw in vanuit het bestand</translation>
+        <translation>Laad metagegevens opnieuw in vanuit het bestand</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="412"/>
         <source>Get Metadata from MusicBrainz</source>
-        <translation>Haal metadata op uit MusicBrainz</translation>
+        <translation>Haal metagegevens op uit MusicBrainz</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="762"/>
@@ -10167,7 +10206,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1377"/>
         <source>A playlist by that name already exists.</source>
-        <translation>Een afspeellijst met deze naam bestaat al.</translation>
+        <translation>Een afspeellijst met die naam bestaat al.</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1381"/>
@@ -10177,7 +10216,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1390"/>
         <source>An unknown error occurred while creating playlist: </source>
-        <translation>Een onbekende fout is opgetreden bij het maken van afspeellijst: </translation>
+        <translation>Een onbekende fout is opgetreden bij het aanmaken van de afspeellijst:</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1429"/>
@@ -10199,22 +10238,22 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1438"/>
         <source>A crate by that name already exists.</source>
-        <translation>Er bestaat al een krat met deze naam</translation>
+        <translation>Er bestaat al een krat met deze naam.</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1443"/>
         <source>A crate cannot have a blank name.</source>
-        <translation>Een krat moet een naam hebben</translation>
+        <translation>Een krat kan geen lege naam hebben.</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="1454"/>
         <source>An unknown error occurred while creating crate: </source>
-        <translation>Er is een onbekende fout opgetreden bij het aanmaken van de krat: </translation>
+        <translation>Er is een onbekende fout opgetreden bij het aanmaken van de krat:</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="416"/>
         <source>Load to Preview Deck</source>
-        <translation>Laad naar voorbeluisteringsspeler</translation>
+        <translation>Laad naar voorbeeldspeler</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="423"/>
@@ -10224,12 +10263,12 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="427"/>
         <source>Lock BPM</source>
-        <translation>blokkeer BPM</translation>
+        <translation>Vergrendel BPM</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="428"/>
         <source>Unlock BPM</source>
-        <translation>Open BPM</translation>
+        <translation>Ontgrendel BPM</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="435"/>
@@ -10254,7 +10293,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="454"/>
         <source>Clear BPM and Beatgrid</source>
-        <translation>BPM en Beatgrid wissen</translation>
+        <translation>Wis BPM en beat-rooster</translation>
     </message>
     <message>
         <location filename="../../src/widget/wtracktableview.cpp" line="702"/>
@@ -10272,7 +10311,7 @@ Druk op OK om af te sluiten.</translation>
     <message>
         <location filename="../../src/widget/wtracktableviewheader.cpp" line="102"/>
         <source>Show or hide columns.</source>
-        <translation>Kolommen weergeven of verbergen.</translation>
+        <translation>Toon of verberg kolommen.</translation>
     </message>
 </context>
 <context>

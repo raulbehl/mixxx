@@ -1,10 +1,14 @@
 #include "sources/soundsourcecoreaudio.h"
+#include "sources/mp3decoding.h"
 
 #include "util/math.h"
 
 namespace Mixxx {
 
 namespace {
+
+// The maximum number of samples per MP3 frame
+const SINT kMp3MaxFrameSize = 1152;
 
 // NOTE(rryan): For every MP3 seek we jump back kStabilizationFrames frames from
 // the seek position and read forward to allow the decoder to stabilize. The
@@ -13,25 +17,13 @@ namespace {
 // appropriate amount to pre-fetch from the ExtAudioFile API. Oddly, the "prime"
 // information -- which AIUI is supposed to tell us this information -- is zero
 // for this file. We use the same frame pre-fetch count from SoundSourceMp3.
-static const int kMp3StabilizationFrames =
-        AudioSource::kMp3SeekFramePrefetchCount * 1152;
+const SINT kMp3StabilizationFrames =
+        kMp3SeekFramePrefetchCount * kMp3MaxFrameSize;
+
 static CSAMPLE kMp3StabilizationScratchBuffer[kMp3StabilizationFrames *
                                               AudioSource::kChannelCountStereo];
 
 }  // namespace
-
-QList<QString> SoundSourceCoreAudio::supportedFileExtensions() {
-    QList<QString> list;
-    list.push_back("m4a");
-    list.push_back("mp3");
-    list.push_back("mp2");
-    //Can add mp3, mp2, ac3, and others here if you want.
-    //See:
-    //  http://developer.apple.com/library/mac/documentation/MusicAudio/Reference/AudioFileConvertRef/Reference/reference.html#//apple_ref/doc/c_ref/AudioFileTypeID
-
-    //XXX: ... but make sure you implement handling for any new format in ParseHeader!!!!!! -- asantoni
-    return list;
-}
 
 SoundSourceCoreAudio::SoundSourceCoreAudio(QUrl url)
         : SoundSource(url),
@@ -86,7 +78,7 @@ Result SoundSourceCoreAudio::tryOpen(const AudioSourceConfig& audioSrcCfg) {
 
     // create the output format
     const UInt32 numChannels =
-            (kChannelCountZero < audioSrcCfg.channelCountHint) ? audioSrcCfg.channelCountHint : 2;
+            isValidChannelCount(audioSrcCfg.channelCountHint) ? audioSrcCfg.channelCountHint : 2;
     m_outputFormat = CAStreamBasicDescription(m_inputFormat.mSampleRate,
             numChannels, CAStreamBasicDescription::kPCMFormatFloat32, true);
 
@@ -156,8 +148,8 @@ SINT SoundSourceCoreAudio::seekSampleFrame(SINT frameIndex) {
     DEBUG_ASSERT(isValidFrameIndex(frameIndex));
 
     // See comments above on kMp3StabilizationFrames.
-    const SINT stabilization_frames = m_bFileIsMp3 ? math_min<SINT>(
-            kMp3StabilizationFrames, frameIndex + m_headerFrames) : 0;
+    const SINT stabilization_frames = m_bFileIsMp3 ? math_min(
+            kMp3StabilizationFrames, SINT(frameIndex + m_headerFrames)) : 0;
     OSStatus err = ExtAudioFileSeek(
             m_audioFile, frameIndex + m_headerFrames - stabilization_frames);
     if (stabilization_frames > 0) {
@@ -199,6 +191,23 @@ SINT SoundSourceCoreAudio::readSampleFrames(
         numFramesRead += numFramesToReadInOut;
     }
     return numFramesRead;
+}
+
+QString SoundSourceProviderCoreAudio::getName() const {
+    return "Apple Core Audio";
+}
+
+QStringList SoundSourceProviderCoreAudio::getSupportedFileExtensions() const {
+    QStringList supportedFileExtensions;
+    supportedFileExtensions.append("m4a");
+    supportedFileExtensions.append("mp3");
+    supportedFileExtensions.append("mp2");
+    //Can add mp3, mp2, ac3, and others here if you want.
+    //See:
+    //  http://developer.apple.com/library/mac/documentation/MusicAudio/Reference/AudioFileConvertRef/Reference/reference.html#//apple_ref/doc/c_ref/AudioFileTypeID
+
+    //XXX: ... but make sure you implement handling for any new format in ParseHeader!!!!!! -- asantoni
+    return supportedFileExtensions;
 }
 
 }  // namespace Mixxx
