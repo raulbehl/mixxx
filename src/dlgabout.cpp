@@ -112,7 +112,9 @@ DlgAbout::DlgAbout(QWidget* parent) :  QDialog(parent), Ui::DlgAboutDlg() {
             << "Thorsten Munsch"
             << "Emile Vrijdags"
             << "Be"
-            << "Neale Pickett";
+            << "Neale Pickett"
+            << "St&eacute;phane Guillou"
+            << "Russ Mannex";
 
     QStringList specialThanks;
     specialThanks
@@ -240,6 +242,7 @@ DlgAbout::DlgAbout(QWidget* parent) :  QDialog(parent), Ui::DlgAboutDlg() {
             << "Florian Mahlknecht"
             << "Ben Clark"
             << "Tom Gascoigne"
+            << "Neale Pickett"
             << "Aaron Mavrinac"
             << "Markus H&auml;rer"
             << "Scott Stewart"
