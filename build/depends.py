@@ -438,7 +438,7 @@ class SoundTouch(Dependence):
 
         # If we do not want optimizations then disable them.
         optimize = (build.flags['optimize'] if 'optimize' in build.flags
-                    else Optimize.get_optimization_level())
+                    else Optimize.get_optimization_level(build))
         if optimize == Optimize.LEVEL_OFF:
             env.Append(CPPDEFINES='SOUNDTOUCH_DISABLE_X86_OPTIMIZATIONS')
 
@@ -815,7 +815,6 @@ class MixxxCore(Feature):
 
                    "library/cratefeature.cpp",
                    "library/sidebarmodel.cpp",
-                   "library/legacylibraryimporter.cpp",
                    "library/library.cpp",
 
                    "library/scanner/libraryscanner.cpp",
@@ -937,6 +936,8 @@ class MixxxCore(Feature):
                    "playermanager.cpp",
                    "samplerbank.cpp",
                    "sounddevice.cpp",
+                   "sounddevicenetwork.cpp",
+                   "engine/sidechain/enginenetworkstream.cpp",
                    "soundmanager.cpp",
                    "soundmanagerconfig.cpp",
                    "soundmanagerutil.cpp",
@@ -970,6 +971,7 @@ class MixxxCore(Feature):
                    "util/movinginterquartilemean.cpp",
                    "util/console.cpp",
                    "util/dbid.cpp",
+                   "util/replaygain.cpp",
 
                    '#res/mixxx.qrc'
                    ]
@@ -1099,11 +1101,6 @@ class MixxxCore(Feature):
                 build.env.Append(LINKFLAGS='/MACHINE:ARM')
             else:
                 raise Exception('Invalid machine type for Windows build.')
-
-            # Ugh, MSVC-only hack :( see
-            # http://www.qtforum.org/article/17883/problem-using-qstring-
-            # fromstdwstring.html
-            build.env.Append(CXXFLAGS='/Zc:wchar_t-')
 
             # Build with multiple processes. TODO(XXX) make this configurable.
             # http://msdn.microsoft.com/en-us/library/bb385193.aspx
